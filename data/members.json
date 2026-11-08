@@ -1,0 +1,1423 @@
+[
+  {
+    "id": "UCD-miitqNY3nyukJ4Fnf4_A",
+    "name": "月ノ美兎",
+    "group": "JP",
+    "channel_id": "UCD-miitqNY3nyukJ4Fnf4_A",
+    "alias": ""
+  },
+  {
+    "id": "UCYKP16oMX9KKPbrNgo_Kgag",
+    "name": "える / Elu【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCYKP16oMX9KKPbrNgo_Kgag",
+    "alias": ""
+  },
+  {
+    "id": "UCsg-YqdqQ-KFF0LNk23BY4A",
+    "name": "樋口楓【にじさんじ所属】",
+    "group": "JP",
+    "channel_id": "UCsg-YqdqQ-KFF0LNk23BY4A",
+    "alias": ""
+  },
+  {
+    "id": "UC6oDys1BGgBsIC3WhG1BovQ",
+    "name": "Shizuka Rin Official",
+    "group": "JP",
+    "channel_id": "UC6oDys1BGgBsIC3WhG1BovQ",
+    "alias": ""
+  },
+  {
+    "id": "UCeK9HFcRZoTrvqcUCtccMoQ",
+    "name": "渋谷ハジメのはじめ支部",
+    "group": "JP",
+    "channel_id": "UCeK9HFcRZoTrvqcUCtccMoQ",
+    "alias": ""
+  },
+  {
+    "id": "UCvmppcdYf4HOv-tFQhHHJMA",
+    "name": "《にじさんじ所属の女神》モイラ",
+    "group": "JP",
+    "channel_id": "UCvmppcdYf4HOv-tFQhHHJMA",
+    "alias": ""
+  },
+  {
+    "id": "UCmUjjW5zF1MMOhYUwwwQv9Q",
+    "name": "宇志海いちご",
+    "group": "JP",
+    "channel_id": "UCmUjjW5zF1MMOhYUwwwQv9Q",
+    "alias": ""
+  },
+  {
+    "id": "UC_GCs6GARLxEHxy1w40d6VQ",
+    "name": "家長むぎ【にじさんじ所属】",
+    "group": "JP",
+    "channel_id": "UC_GCs6GARLxEHxy1w40d6VQ",
+    "alias": ""
+  },
+  {
+    "id": "UC48jH1ul-6HOrcSSfoR02fQ",
+    "name": "Yuhi Riri Official",
+    "group": "JP",
+    "channel_id": "UC48jH1ul-6HOrcSSfoR02fQ",
+    "alias": ""
+  },
+  {
+    "id": "UCt0clH12Xk1-Ej5PXKGfdPA",
+    "name": "♥️♠️物述有栖♦️♣️",
+    "group": "JP",
+    "channel_id": "UCt0clH12Xk1-Ej5PXKGfdPA",
+    "alias": ""
+  },
+  {
+    "id": "UCBiqkFJljoxAj10SoP2w2Cg",
+    "name": "文野環【にじさんじの野良猫】ふみのたまき",
+    "group": "JP",
+    "channel_id": "UCBiqkFJljoxAj10SoP2w2Cg",
+    "alias": ""
+  },
+  {
+    "id": "UCXU7YYxy_iQd3ulXyO-zC2w",
+    "name": "伏見ガク【にじさんじ所属】",
+    "group": "JP",
+    "channel_id": "UCXU7YYxy_iQd3ulXyO-zC2w",
+    "alias": ""
+  },
+  {
+    "id": "UCUzJ90o1EjqUbk2pBAy0_aw",
+    "name": "Gilzaren III Season 2",
+    "group": "JP",
+    "channel_id": "UCUzJ90o1EjqUbk2pBAy0_aw",
+    "alias": ""
+  },
+  {
+    "id": "UCv1fFr156jc65EMiLbaLImw",
+    "name": "剣持刀也",
+    "group": "JP",
+    "channel_id": "UCv1fFr156jc65EMiLbaLImw",
+    "alias": ""
+  },
+  {
+    "id": "UCtpB6Bvhs1Um93ziEDACQ8g",
+    "name": "Kazaki Ch. ‐ 森中花咲 ‐",
+    "group": "JP",
+    "channel_id": "UCtpB6Bvhs1Um93ziEDACQ8g",
+    "alias": ""
+  },
+  {
+    "id": "UCspv01oxUFf_MTSipURRhkA",
+    "name": "Kanae Channel",
+    "group": "JP",
+    "channel_id": "UCspv01oxUFf_MTSipURRhkA",
+    "alias": ""
+  },
+  {
+    "id": "UCBi8YaVyZpiKWN3_Z0dCTfQ",
+    "name": "赤羽葉子ちゃんねる",
+    "group": "JP",
+    "channel_id": "UCBi8YaVyZpiKWN3_Z0dCTfQ",
+    "alias": ""
+  },
+  {
+    "id": "UCoztvTULBYd3WmStqYeoHcA",
+    "name": "笹木咲 / Sasaki Saku",
+    "group": "JP",
+    "channel_id": "UCoztvTULBYd3WmStqYeoHcA",
+    "alias": ""
+  },
+  {
+    "id": "UC0g1AE0DOjBYnLhkgoRWN1w",
+    "name": "本間ひまわり - Himawari Honma -",
+    "group": "JP",
+    "channel_id": "UC0g1AE0DOjBYnLhkgoRWN1w",
+    "alias": ""
+  },
+  {
+    "id": "UCGqO-zHwgaTiKR5tIXzZO0A",
+    "name": "本間ひまわり切り抜きチャンネル",
+    "group": "JP",
+    "channel_id": "UCGqO-zHwgaTiKR5tIXzZO0A",
+    "alias": ""
+  },
+  {
+    "id": "UC9EjSJ8pvxtvPdxLOElv73w",
+    "name": "魔界ノりりむ",
+    "group": "JP",
+    "channel_id": "UC9EjSJ8pvxtvPdxLOElv73w",
+    "alias": ""
+  },
+  {
+    "id": "UCSFCh5NL4qXrAy9u-u2lX3g",
+    "name": "Kuzuha Channel",
+    "group": "JP",
+    "channel_id": "UCSFCh5NL4qXrAy9u-u2lX3g",
+    "alias": ""
+  },
+  {
+    "id": "UC_4tXjqecqox5Uc05ncxpxg",
+    "name": "椎名唯華 / Shiina Yuika",
+    "group": "JP",
+    "channel_id": "UC_4tXjqecqox5Uc05ncxpxg",
+    "alias": ""
+  },
+  {
+    "id": "UC53UDnhAAYwvNO7j_2Ju1cQ",
+    "name": "ドーラ",
+    "group": "JP",
+    "channel_id": "UC53UDnhAAYwvNO7j_2Ju1cQ",
+    "alias": ""
+  },
+  {
+    "id": "UCRV9d6YCYIMUszK-83TwxVA",
+    "name": "轟京子/kyoko todoroki【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCRV9d6YCYIMUszK-83TwxVA",
+    "alias": ""
+  },
+  {
+    "id": "UC1zFJrfEKvCixhsjNSb1toQ",
+    "name": "シスター・クレア -SisterClaire-",
+    "group": "JP",
+    "channel_id": "UC1zFJrfEKvCixhsjNSb1toQ",
+    "alias": ""
+  },
+  {
+    "id": "UCsFn_ueskBkMCEyzCEqAOvg",
+    "name": "花畑チャイカ",
+    "group": "JP",
+    "channel_id": "UCsFn_ueskBkMCEyzCEqAOvg",
+    "alias": ""
+  },
+  {
+    "id": "UCKMYISTJAQ8xTplUPHiABlA",
+    "name": "社築",
+    "group": "JP",
+    "channel_id": "UCKMYISTJAQ8xTplUPHiABlA",
+    "alias": ""
+  },
+  {
+    "id": "UCaF-mODqAziHivqg0Q61XKQ",
+    "name": "鈴木勝の旧Channel【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCaF-mODqAziHivqg0Q61XKQ",
+    "alias": ""
+  },
+  {
+    "id": "UCryOPk2GZ1meIDt53tL30Tw",
+    "name": "鈴木勝/Suzuki Masaru【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCryOPk2GZ1meIDt53tL30Tw",
+    "alias": ""
+  },
+  {
+    "id": "UCt5-0i4AVHXaWJrL8Wql3mw",
+    "name": "緑仙 / Ryushen",
+    "group": "JP",
+    "channel_id": "UCt5-0i4AVHXaWJrL8Wql3mw",
+    "alias": ""
+  },
+  {
+    "id": "UC3lNFeJiTq6L3UWoz4g1e-A",
+    "name": "卯月コウ",
+    "group": "JP",
+    "channel_id": "UC3lNFeJiTq6L3UWoz4g1e-A",
+    "alias": ""
+  },
+  {
+    "id": "UCWz0CSYCxf4MhRKPDm220AQ",
+    "name": "神田笑一 / Kanda Shoichi【 にじさんじ 】",
+    "group": "JP",
+    "channel_id": "UCWz0CSYCxf4MhRKPDm220AQ",
+    "alias": ""
+  },
+  {
+    "id": "UCiSRx1a2k-0tOg-fs6gAolQ",
+    "name": "飛鳥ひな【にじさんじ所属】",
+    "group": "JP",
+    "channel_id": "UCiSRx1a2k-0tOg-fs6gAolQ",
+    "alias": ""
+  },
+  {
+    "id": "UCtAvQ5U0aXyKwm2i4GqFgJg",
+    "name": "春崎エアル",
+    "group": "JP",
+    "channel_id": "UCtAvQ5U0aXyKwm2i4GqFgJg",
+    "alias": ""
+  },
+  {
+    "id": "UCRWOdwLRsenx2jLaiCAIU4A",
+    "name": "雨森小夜",
+    "group": "JP",
+    "channel_id": "UCRWOdwLRsenx2jLaiCAIU4A",
+    "alias": ""
+  },
+  {
+    "id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
+    "name": "鷹宮リオン / Rion Takamiya",
+    "group": "JP",
+    "channel_id": "UCV5ZZlLjk5MKGg3L0n0vbzw",
+    "alias": ""
+  },
+  {
+    "id": "UCJubINhCcFXlsBwnHp0wl_g",
+    "name": "舞元啓介",
+    "group": "JP",
+    "channel_id": "UCJubINhCcFXlsBwnHp0wl_g",
+    "alias": ""
+  },
+  {
+    "id": "UCPvGypSgfDkVe7JG2KygK7A",
+    "name": "竜胆 尊 / Rindou Mikoto",
+    "group": "JP",
+    "channel_id": "UCPvGypSgfDkVe7JG2KygK7A",
+    "alias": ""
+  },
+  {
+    "id": "UCP19rQ5V-46B-6ZeLDJqp5w",
+    "name": "でび縺」縺。縺ッ豁サ縺ォ縺セ縺励",
+    "group": "JP",
+    "channel_id": "UCP19rQ5V-46B-6ZeLDJqp5w",
+    "alias": ""
+  },
+  {
+    "id": "UCjlmCrq4TP1I4xguOtJ-31w",
+    "name": "でびでび・でびる",
+    "group": "JP",
+    "channel_id": "UCjlmCrq4TP1I4xguOtJ-31w",
+    "alias": ""
+  },
+  {
+    "id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
+    "name": "桜凛月",
+    "group": "JP",
+    "channel_id": "UCfQVs_KuXeNAlGa3fb8rlnQ",
+    "alias": ""
+  },
+  {
+    "id": "UCo7TRj3cS-f_1D9ZDmuTsjw",
+    "name": "町田ちま【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCo7TRj3cS-f_1D9ZDmuTsjw",
+    "alias": ""
+  },
+  {
+    "id": "UChUJbHiTVeGrSkTdBzVfNCQ",
+    "name": "ジョー・力一 Joe Rikiichi",
+    "group": "JP",
+    "channel_id": "UChUJbHiTVeGrSkTdBzVfNCQ",
+    "alias": ""
+  },
+  {
+    "id": "UCbc8fwhdUNlqi-J99ISYu4A",
+    "name": "ベルモンド・バンデラス",
+    "group": "JP",
+    "channel_id": "UCbc8fwhdUNlqi-J99ISYu4A",
+    "alias": ""
+  },
+  {
+    "id": "UCvzVB-EYuHFXHZrObB8a_Og",
+    "name": "矢車りね / Rine Yaguruma【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCvzVB-EYuHFXHZrObB8a_Og",
+    "alias": ""
+  },
+  {
+    "id": "UCTIE7LM5X15NVugV7Krp9Hw",
+    "name": "夢追翔のJUKE BOX",
+    "group": "JP",
+    "channel_id": "UCTIE7LM5X15NVugV7Krp9Hw",
+    "alias": ""
+  },
+  {
+    "id": "UCmeyo5pRj_6PXG-CsGUuWWg",
+    "name": "黒井しば【にじさんじの犬】",
+    "group": "JP",
+    "channel_id": "UCmeyo5pRj_6PXG-CsGUuWWg",
+    "alias": ""
+  },
+  {
+    "id": "UCCVwhI5trmaSxfcze_Ovzfw",
+    "name": "夢月ロア🌖Yuzuki Roa",
+    "group": "JP",
+    "channel_id": "UCCVwhI5trmaSxfcze_Ovzfw",
+    "alias": ""
+  },
+  {
+    "id": "UCufQu4q65z63IgE4cfKs1BQ",
+    "name": "語部紡",
+    "group": "JP",
+    "channel_id": "UCufQu4q65z63IgE4cfKs1BQ",
+    "alias": ""
+  },
+  {
+    "id": "UCXRlIK3Cw_TJIQC5kSJJQMg",
+    "name": "戌亥とこ -Inui Toko-",
+    "group": "JP",
+    "channel_id": "UCXRlIK3Cw_TJIQC5kSJJQMg",
+    "alias": ""
+  },
+  {
+    "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
+    "name": "アンジュ・カトリーナ - Ange Katrena -",
+    "group": "JP",
+    "channel_id": "UCHVXbQzkl3rDfsXWo8xi2qw",
+    "alias": ""
+  },
+  {
+    "id": "UCZ1xuCK1kNmn5RzPYIZop3w",
+    "name": "リゼ・ヘルエスタ -Lize Helesta-",
+    "group": "JP",
+    "channel_id": "UCZ1xuCK1kNmn5RzPYIZop3w",
+    "alias": ""
+  },
+  {
+    "id": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
+    "name": "三枝明那 / Akina Saegusa",
+    "group": "JP",
+    "channel_id": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
+    "alias": ""
+  },
+  {
+    "id": "UC0WwEfE-jOM2rzjpdfhTzZA",
+    "name": "愛園 愛美/Aizono Manami",
+    "group": "JP",
+    "channel_id": "UC0WwEfE-jOM2rzjpdfhTzZA",
+    "alias": ""
+  },
+  {
+    "id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
+    "name": "鈴原るる【にじさんじ所属】",
+    "group": "JP",
+    "channel_id": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
+    "alias": ""
+  },
+  {
+    "id": "UCHX7YpFG8rVwhsHCx34xt7w",
+    "name": "雪城眞尋/Yukishiro Mahiro【にじさんじ所属】",
+    "group": "JP",
+    "channel_id": "UCHX7YpFG8rVwhsHCx34xt7w",
+    "alias": ""
+  },
+  {
+    "id": "UCIytNcoz4pWzXfLda0DoULQ",
+    "name": "エクス・アルビオ -Ex Albio-",
+    "group": "JP",
+    "channel_id": "UCIytNcoz4pWzXfLda0DoULQ",
+    "alias": ""
+  },
+  {
+    "id": "UCtnO2N4kPTXmyvedjGWdx3Q",
+    "name": "レヴィ・エリファ-Levi Elipha-",
+    "group": "JP",
+    "channel_id": "UCtnO2N4kPTXmyvedjGWdx3Q",
+    "alias": ""
+  },
+  {
+    "id": "UCfipDDn7wY-C-SoUChgxCQQ",
+    "name": "葉山舞鈴 / Ohayama Ch.",
+    "group": "JP",
+    "channel_id": "UCfipDDn7wY-C-SoUChgxCQQ",
+    "alias": ""
+  },
+  {
+    "id": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
+    "name": "ニュイ・ソシエール //[Nui Sociere]",
+    "group": "JP",
+    "channel_id": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
+    "alias": ""
+  },
+  {
+    "id": "UCGYAYLDE7TZiiC8U6teciDQ",
+    "name": "葉加瀬 冬雪 / Hakase Fuyuki",
+    "group": "JP",
+    "channel_id": "UCGYAYLDE7TZiiC8U6teciDQ",
+    "alias": ""
+  },
+  {
+    "id": "UCmovZ2th3Sqpd00F5RdeigQ",
+    "name": "加賀美 ハヤト/Hayato Kagami",
+    "group": "JP",
+    "channel_id": "UCmovZ2th3Sqpd00F5RdeigQ",
+    "alias": ""
+  },
+  {
+    "id": "UCL34fAoFim9oHLbVzMKFavQ",
+    "name": "夜見れな/yorumi rena【にじさんじ所属】",
+    "group": "JP",
+    "channel_id": "UCL34fAoFim9oHLbVzMKFavQ",
+    "alias": ""
+  },
+  {
+    "id": "UCdpUojq0KWZCN9bxXnZwz5w",
+    "name": "アルス・アルマル -ars almal- 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCdpUojq0KWZCN9bxXnZwz5w",
+    "alias": ""
+  },
+  {
+    "id": "UCkIimWZ9gBJRamKF0rmPU8w",
+    "name": "天宮 こころ / Amamya Ch.",
+    "group": "JP",
+    "channel_id": "UCkIimWZ9gBJRamKF0rmPU8w",
+    "alias": ""
+  },
+  {
+    "id": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
+    "name": "エリー・コニファー / Eli Conifer【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
+    "alias": ""
+  },
+  {
+    "id": "UCIG9rDtgR45VCZmYnd-4DUw",
+    "name": "ラトナ・プティ -Ratna Petit -にじさんじ所属",
+    "group": "JP",
+    "channel_id": "UCIG9rDtgR45VCZmYnd-4DUw",
+    "alias": ""
+  },
+  {
+    "id": "UC2OacIzd2UxGHRGhdHl1Rhw",
+    "name": "早瀬 走 / Hayase Sou【にじさんじ所属】",
+    "group": "JP",
+    "channel_id": "UC2OacIzd2UxGHRGhdHl1Rhw",
+    "alias": ""
+  },
+  {
+    "id": "UC8C1LLhBhf_E2IBPLSDJXlQ",
+    "name": "健屋花那【にじさんじ】KanaSukoya",
+    "group": "JP",
+    "channel_id": "UC8C1LLhBhf_E2IBPLSDJXlQ",
+    "alias": ""
+  },
+  {
+    "id": "UCHBhnG2G-qN0JrrWmMO2FTA",
+    "name": "シェリン・バーガンディ -Shellin Burgundy- 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCHBhnG2G-qN0JrrWmMO2FTA",
+    "alias": ""
+  },
+  {
+    "id": "UCwrjITPwG4q71HzihV2C7Nw",
+    "name": "フミ/にじさんじ",
+    "group": "JP",
+    "channel_id": "UCwrjITPwG4q71HzihV2C7Nw",
+    "alias": ""
+  },
+  {
+    "id": "UC9V3Y3_uzU5e-usObb6IE1w",
+    "name": "星川サラ / Sara Hoshikawa",
+    "group": "JP",
+    "channel_id": "UC9V3Y3_uzU5e-usObb6IE1w",
+    "alias": ""
+  },
+  {
+    "id": "UCllKI7VjyANuS1RXatizfLQ",
+    "name": "山神 カルタ / Karuta Yamagami",
+    "group": "JP",
+    "channel_id": "UCllKI7VjyANuS1RXatizfLQ",
+    "alias": ""
+  },
+  {
+    "id": "UCl1oLKcAq93p-pwKfDGhiYQ",
+    "name": "えま★おうがすと / Emma★August【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCl1oLKcAq93p-pwKfDGhiYQ",
+    "alias": ""
+  },
+  {
+    "id": "UCb6ObE-XGCctO3WrjRZC-cw",
+    "name": "ルイス・キャミー",
+    "group": "JP",
+    "channel_id": "UCb6ObE-XGCctO3WrjRZC-cw",
+    "alias": ""
+  },
+  {
+    "id": "UCerkculBD7YLc_vOGrF7tKg",
+    "name": "魔使マオ -matsukai mao-",
+    "group": "JP",
+    "channel_id": "UCerkculBD7YLc_vOGrF7tKg",
+    "alias": ""
+  },
+  {
+    "id": "UC6wvdADTJ88OfIbJYIpAaDA",
+    "name": "不破 湊 / Fuwa Minato【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC6wvdADTJ88OfIbJYIpAaDA",
+    "alias": ""
+  },
+  {
+    "id": "UCuvk5PilcvDECU7dDZhQiEw",
+    "name": "白雪 巴/Shirayuki Tomoe",
+    "group": "JP",
+    "channel_id": "UCuvk5PilcvDECU7dDZhQiEw",
+    "alias": ""
+  },
+  {
+    "id": "UCS-XXTgVkotkbkDnGEprXpg",
+    "name": "ましろ",
+    "group": "JP",
+    "channel_id": "UCS-XXTgVkotkbkDnGEprXpg",
+    "alias": ""
+  },
+  {
+    "id": "UCRcLAVTbmx2-iNcXSsupdNA",
+    "name": "来栖 夏芽-kurusu natsume-【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCRcLAVTbmx2-iNcXSsupdNA",
+    "alias": ""
+  },
+  {
+    "id": "UCuep1JCrMvSxOGgGhBfJuYw",
+    "name": "フレン・E・ルスタリオ",
+    "group": "JP",
+    "channel_id": "UCuep1JCrMvSxOGgGhBfJuYw",
+    "alias": ""
+  },
+  {
+    "id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
+    "name": "イブラヒム【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
+    "alias": ""
+  },
+  {
+    "id": "UCXW4MqCQn-jCaxlX-nn-BYg",
+    "name": "長尾 景 / Nagao Kei【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCXW4MqCQn-jCaxlX-nn-BYg",
+    "alias": ""
+  },
+  {
+    "id": "UCGw7lrT-rVZCWHfdG9Frcgg",
+    "name": "弦月 藤士郎 / Genzuki Tojiro【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCGw7lrT-rVZCWHfdG9Frcgg",
+    "alias": ""
+  },
+  {
+    "id": "UCo2N7C-Z91waaR6lF3LL_jw",
+    "name": "甲斐田 晴 / Kaida Haru【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCo2N7C-Z91waaR6lF3LL_jw",
+    "alias": ""
+  },
+  {
+    "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
+    "name": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC_82HBGtvwN1hcGeOGHzUBQ",
+    "alias": ""
+  },
+  {
+    "id": "UCL_O_HXgLJx3Auteer0n0pA",
+    "name": "周央 サンゴ / Suo Sango【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCL_O_HXgLJx3Auteer0n0pA",
+    "alias": ""
+  },
+  {
+    "id": "UCebT4Aq-3XWb5je1S1FvR_A",
+    "name": "東堂コハク/ Todo Kohaku [にじさんじ]",
+    "group": "JP",
+    "channel_id": "UCebT4Aq-3XWb5je1S1FvR_A",
+    "alias": ""
+  },
+  {
+    "id": "UCRqBKoKuX30ruKAq05pCeRQ",
+    "name": "北小路ヒスイ / Kitakoji Hisui 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCRqBKoKuX30ruKAq05pCeRQ",
+    "alias": ""
+  },
+  {
+    "id": "UCkngxfPbmGyGl_RIq4FA3MQ",
+    "name": "西園チグサ / Nishizono Chigusa",
+    "group": "JP",
+    "channel_id": "UCkngxfPbmGyGl_RIq4FA3MQ",
+    "alias": ""
+  },
+  {
+    "id": "UCgmFrRcyH7d1zR9sIVQhFow",
+    "name": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCgmFrRcyH7d1zR9sIVQhFow",
+    "alias": ""
+  },
+  {
+    "id": "UC-6rZgmxZSIbq786j3RD5ow",
+    "name": "レオス・ヴィンセント / Leos.Vincent【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC-6rZgmxZSIbq786j3RD5ow",
+    "alias": ""
+  },
+  {
+    "id": "UCqjTqdVlvIipZXIKeCkHKUA",
+    "name": "オリバー・エバンス / Oliver Evans 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCqjTqdVlvIipZXIKeCkHKUA",
+    "alias": ""
+  },
+  {
+    "id": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
+    "name": "レイン・パターソン／Lain Paterson【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
+    "alias": ""
+  },
+  {
+    "id": "UCAQDFeCTVdx90GtwohwjHzQ",
+    "name": "天ヶ瀬 むゆ / Amagase Muyu 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCAQDFeCTVdx90GtwohwjHzQ",
+    "alias": ""
+  },
+  {
+    "id": "UCe22Bcwd_GCpTjLxn83zl7A",
+    "name": "先斗寧 / Ponto Nei 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCe22Bcwd_GCpTjLxn83zl7A",
+    "alias": ""
+  },
+  {
+    "id": "UCtHY-tP0dyykhTRMmnfPs_g",
+    "name": "海妹四葉 / Umise Yotsuha 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCtHY-tP0dyykhTRMmnfPs_g",
+    "alias": ""
+  },
+  {
+    "id": "UCgIfLpQvelloDi8I0Ycbwpg",
+    "name": "壱百満天原サロメ / Hyakumantenbara Salome",
+    "group": "JP",
+    "channel_id": "UCgIfLpQvelloDi8I0Ycbwpg",
+    "alias": ""
+  },
+  {
+    "id": "UCC7rRD6P7RQcx0hKv9RQP4w",
+    "name": "風楽奏斗 / Fura Kanato",
+    "group": "JP",
+    "channel_id": "UCC7rRD6P7RQcx0hKv9RQP4w",
+    "alias": ""
+  },
+  {
+    "id": "UC4l9gz3q65lTBFfFtW5LLeA",
+    "name": "渡会雲雀 / Watarai Hibari",
+    "group": "JP",
+    "channel_id": "UC4l9gz3q65lTBFfFtW5LLeA",
+    "alias": ""
+  },
+  {
+    "id": "UCcDDxnoQcezyTUzHg5uHaKg",
+    "name": "四季凪アキラ / Shikinagi Akira",
+    "group": "JP",
+    "channel_id": "UCcDDxnoQcezyTUzHg5uHaKg",
+    "alias": ""
+  },
+  {
+    "id": "UC5dJFf4m-mEcoyJRfhBljoA",
+    "name": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
+    "group": "JP",
+    "channel_id": "UC5dJFf4m-mEcoyJRfhBljoA",
+    "alias": ""
+  },
+  {
+    "id": "UCUP8TmlO7NNra88AMqGU_vQ",
+    "name": "小清水 透 / Koshimizu Toru【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCUP8TmlO7NNra88AMqGU_vQ",
+    "alias": ""
+  },
+  {
+    "id": "UCWRPqA0ehhWV4Hnp27PJCkQ",
+    "name": "獅子堂 あかり / Shishido Akari【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCWRPqA0ehhWV4Hnp27PJCkQ",
+    "alias": ""
+  },
+  {
+    "id": "UClrQ7xhRBxS_v_-WuudGKmA",
+    "name": "鏑木ろこ / Kaburaki Roco【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UClrQ7xhRBxS_v_-WuudGKmA",
+    "alias": ""
+  },
+  {
+    "id": "UCu-rV2gPtJ-CsGxe71z_BrQ",
+    "name": "五十嵐梨花 / Igarashi Rika 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCu-rV2gPtJ-CsGxe71z_BrQ",
+    "alias": ""
+  },
+  {
+    "id": "UCtLfA_qUqCJtjXJM2ZR_keg",
+    "name": "石神のぞみ / Ishigami Nozomi【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCtLfA_qUqCJtjXJM2ZR_keg",
+    "alias": ""
+  },
+  {
+    "id": "UCivwPlOp0ojnMPZj5pNOPPA",
+    "name": "ソフィア・ヴァレンタイン / Sophia Valentine【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCivwPlOp0ojnMPZj5pNOPPA",
+    "alias": ""
+  },
+  {
+    "id": "UCiA-trSZfB0i92V_-dyDqBw",
+    "name": "倉持めると / Kuramochi Meruto【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCiA-trSZfB0i92V_-dyDqBw",
+    "alias": ""
+  },
+  {
+    "id": "UCy8P3o5XlMpJGQY4WugzdNA",
+    "name": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCy8P3o5XlMpJGQY4WugzdNA",
+    "alias": ""
+  },
+  {
+    "id": "UC1vawzfbCnRpHT9SJ5pHlHw",
+    "name": "赤城ウェン / Akagi Wen【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC1vawzfbCnRpHT9SJ5pHlHw",
+    "alias": ""
+  },
+  {
+    "id": "UCambvP8yxNDot4FzQc9cgiw",
+    "name": "宇佐美リト / Usami Rito【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCambvP8yxNDot4FzQc9cgiw",
+    "alias": ""
+  },
+  {
+    "id": "UCqXxS-9x9Ha_UiH6hG4kh5Q",
+    "name": "緋八マナ / Hibachi Mana【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCqXxS-9x9Ha_UiH6hG4kh5Q",
+    "alias": ""
+  },
+  {
+    "id": "UCgZ0pH7j6c9z-pkOG3PYw1Q",
+    "name": "星導ショウ / Hoshirube Sho【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCgZ0pH7j6c9z-pkOG3PYw1Q",
+    "alias": ""
+  },
+  {
+    "id": "UChdY64fJb14Nfnbs8EGdQig",
+    "name": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UChdY64fJb14Nfnbs8EGdQig",
+    "alias": ""
+  },
+  {
+    "id": "UC6WFKwYptsxVue56Lx218vg",
+    "name": "小柳ロウ / Koyanagi Rou【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC6WFKwYptsxVue56Lx218vg",
+    "alias": ""
+  },
+  {
+    "id": "UCz89MGFBrAqwJ5xMr5weSuA",
+    "name": "伊波ライ / Inami Rai【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCz89MGFBrAqwJ5xMr5weSuA",
+    "alias": ""
+  },
+  {
+    "id": "UCnbJ8LTbHrsRgqkxwJXCU8w",
+    "name": "立伝都々 / Tachitsute Toto【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCnbJ8LTbHrsRgqkxwJXCU8w",
+    "alias": ""
+  },
+  {
+    "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
+    "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
+    "alias": ""
+  },
+  {
+    "id": "UCFtyinR2ZdvKK_Xgy07qXUg",
+    "name": "ミラン・ケストレル / Milan Kestrel 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCFtyinR2ZdvKK_Xgy07qXUg",
+    "alias": ""
+  },
+  {
+    "id": "UCcx3crxPFi006DUhb_YU-tw",
+    "name": "北見遊征 / Kitami Yusei【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCcx3crxPFi006DUhb_YU-tw",
+    "alias": ""
+  },
+  {
+    "id": "UC8SJPcLpIM3x8RdBJFfiluw",
+    "name": "魁星 / Kaisei【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC8SJPcLpIM3x8RdBJFfiluw",
+    "alias": ""
+  },
+  {
+    "id": "UCyXBNgCulibV9pRm3ZKpmoQ",
+    "name": "榊ネス / Sakaki Ness【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCyXBNgCulibV9pRm3ZKpmoQ",
+    "alias": ""
+  },
+  {
+    "id": "UCzsCWYuvPUky3-DKzphYbEw",
+    "name": "司賀りこ / Shiga Riko【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCzsCWYuvPUky3-DKzphYbEw",
+    "alias": ""
+  },
+  {
+    "id": "UCkhViRjLUKgIcVpar9JiNrw",
+    "name": "珠乃井ナナ / Tamanoi Nana【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCkhViRjLUKgIcVpar9JiNrw",
+    "alias": ""
+  },
+  {
+    "id": "UCiJ_Um3KbfF19NzkDYLzZVQ",
+    "name": "綺沙良 / Kisara【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCiJ_Um3KbfF19NzkDYLzZVQ",
+    "alias": ""
+  },
+  {
+    "id": "UCyJOgJhgfoVRpFjsBCUmuvg",
+    "name": "梢桃音 / Kozue Mone【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCyJOgJhgfoVRpFjsBCUmuvg",
+    "alias": ""
+  },
+  {
+    "id": "UCzNXpqpdvlibmNc1JpM1o4g",
+    "name": "ルンルン / Lunlun【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCzNXpqpdvlibmNc1JpM1o4g",
+    "alias": ""
+  },
+  {
+    "id": "UCtC3B1n4XMiJmrDtu1Ni5qw",
+    "name": "七瀬 すず菜 / Nanase Suzuna【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCtC3B1n4XMiJmrDtu1Ni5qw",
+    "alias": ""
+  },
+  {
+    "id": "UC0xry7czPasj1wPxR8L0MZg",
+    "name": "早乙女 ベリー / Saotome Berry【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC0xry7czPasj1wPxR8L0MZg",
+    "alias": ""
+  },
+  {
+    "id": "UCw-kTlPnZYSHhlGMFJ17Znw",
+    "name": "雲母たまこ / Kirara Tamako【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCw-kTlPnZYSHhlGMFJ17Znw",
+    "alias": ""
+  },
+  {
+    "id": "UCkQ8i_cz0prqdo9jj__L93Q",
+    "name": "酒寄颯馬 / Sakayori Soma【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCkQ8i_cz0prqdo9jj__L93Q",
+    "alias": ""
+  },
+  {
+    "id": "UCpjypWF_wNRs9_TrjjWngpQ",
+    "name": "渚トラウト / Nagisa Trout【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCpjypWF_wNRs9_TrjjWngpQ",
+    "alias": ""
+  },
+  {
+    "id": "UCcyiT8QT7fo7LrxXe1oxOoA",
+    "name": "一橋綾人 / Hitotsubashi Ayato【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCcyiT8QT7fo7LrxXe1oxOoA",
+    "alias": ""
+  },
+  {
+    "id": "UCiBBDZ-ndtBgE4xKbswlgXQ",
+    "name": "五木左京 / Itsuki Sakyo【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCiBBDZ-ndtBgE4xKbswlgXQ",
+    "alias": ""
+  },
+  {
+    "id": "UCrRdBPzK4sj-MMvYOhHRvHg",
+    "name": "十河ののは / Togawa Nonoha【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCrRdBPzK4sj-MMvYOhHRvHg",
+    "alias": ""
+  },
+  {
+    "id": "UCBjcx01rZwPDuUPzWLTsZVA",
+    "name": "夜牛詩乃 / Yagyu Shino【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCBjcx01rZwPDuUPzWLTsZVA",
+    "alias": ""
+  },
+  {
+    "id": "UCIq2HwA2iBOso7ar4VuU-TA",
+    "name": "蝸堂みかる / Kadou Mikaru【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCIq2HwA2iBOso7ar4VuU-TA",
+    "alias": ""
+  },
+  {
+    "id": "UCaAu0DXNSPXCZPg6iHVwRVw",
+    "name": "猫屋敷美紅 / Nekoyashiki Miku【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCaAu0DXNSPXCZPg6iHVwRVw",
+    "alias": ""
+  },
+  {
+    "id": "UCcYrL_GQe8X8K2ARhw_Syww",
+    "name": "皇れお / Sumeragi Reo【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCcYrL_GQe8X8K2ARhw_Syww",
+    "alias": ""
+  },
+  {
+    "id": "UCo96eJdTpPOrxHFztYajbtg",
+    "name": "篠宮ゆの / Shinomiya Yuno 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCo96eJdTpPOrxHFztYajbtg",
+    "alias": ""
+  },
+  {
+    "id": "UCHVSA2OScyef9W7OwPGgJ9w",
+    "name": "城瀬いすみ / Shirose Isumi【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCHVSA2OScyef9W7OwPGgJ9w",
+    "alias": ""
+  },
+  {
+    "id": "UCcswLVd6KGBf5mIdzeO83bA",
+    "name": "花籠つばさ / Hanakago Tsubasa 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCcswLVd6KGBf5mIdzeO83bA",
+    "alias": ""
+  },
+  {
+    "id": "UCam_xf14FPFsRshFTj4wkHw",
+    "name": "白砂あやね / Shirasa Ayane【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCam_xf14FPFsRshFTj4wkHw",
+    "alias": ""
+  },
+  {
+    "id": "UCGLS7BOgNa6c03r7VYacblw",
+    "name": "水面まどか / Minamo Madoka 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCGLS7BOgNa6c03r7VYacblw",
+    "alias": ""
+  },
+  {
+    "id": "UCFimqykDM5g9a5KxlW_e7ZQ",
+    "name": "男虎 / Ono Tora【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCFimqykDM5g9a5KxlW_e7ZQ",
+    "alias": ""
+  },
+  {
+    "id": "UCzcuYIyP-1YcXC96t9J5yWQ",
+    "name": "九里詠太 / Kuri Eita【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCzcuYIyP-1YcXC96t9J5yWQ",
+    "alias": ""
+  },
+  {
+    "id": "UCGGIGlgxXoVu1ZzbQ2XBxqQ",
+    "name": "小々波いるか / Kokonami Iruka【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCGGIGlgxXoVu1ZzbQ2XBxqQ",
+    "alias": ""
+  },
+  {
+    "id": "UC5Qv2tPOI38OcnqOdUKkn7Q",
+    "name": "千凛 あゆむ / Senri Ayumu【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC5Qv2tPOI38OcnqOdUKkn7Q",
+    "alias": ""
+  },
+  {
+    "id": "UC9HYkiQZ1_b3J_F8gc12eaA",
+    "name": "塚原大地 / Tsukahara Daichi【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC9HYkiQZ1_b3J_F8gc12eaA",
+    "alias": ""
+  },
+  {
+    "id": "UCwjlRIySBvZ-kLV5bfjya4A",
+    "name": "御子神琴音 / Mikogami Kotone【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCwjlRIySBvZ-kLV5bfjya4A",
+    "alias": ""
+  },
+  {
+    "id": "UC_4QF0dL-9XI9VajsNkMtmQ",
+    "name": "Rei7 / Reina【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UC_4QF0dL-9XI9VajsNkMtmQ",
+    "alias": ""
+  },
+  {
+    "id": "UCsxs_R8xnsQN4t-F_3qQ8PQ",
+    "name": "レヨン / Rayon【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCsxs_R8xnsQN4t-F_3qQ8PQ",
+    "alias": ""
+  },
+  {
+    "id": "UCIxiVz8JLYTMXexmLh92S6A",
+    "name": "ぷりん・らら・もーど / Purin･Lala･Mode【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCIxiVz8JLYTMXexmLh92S6A",
+    "alias": ""
+  },
+  {
+    "id": "UCa1HO5wU6csVDePt9EPYqmA",
+    "name": "ぽめろ・ぱんち / Pomelo Punch 【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCa1HO5wU6csVDePt9EPYqmA",
+    "alias": ""
+  },
+  {
+    "id": "UCxTIuegV_Vqx11ctdeezPRQ",
+    "name": "神永タイガ / Kaminaga Taiga【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCxTIuegV_Vqx11ctdeezPRQ",
+    "alias": ""
+  },
+  {
+    "id": "UCzHiiP2r1zyTr8A1-6HtQtw",
+    "name": "山田龍一郎 / Yamada Ryuichiro【にじさんじ】",
+    "group": "JP",
+    "channel_id": "UCzHiiP2r1zyTr8A1-6HtQtw",
+    "alias": ""
+  },
+  {
+    "id": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
+    "name": "Elira Pendora 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
+    "alias": ""
+  },
+  {
+    "id": "UCu-J8uIXuLZh16gG-cT1naw",
+    "name": "Finana Ryugu 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCu-J8uIXuLZh16gG-cT1naw",
+    "alias": ""
+  },
+  {
+    "id": "UCgA2jKRkqpY_8eysPUs8sjw",
+    "name": "Petra Gurin【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCgA2jKRkqpY_8eysPUs8sjw",
+    "alias": ""
+  },
+  {
+    "id": "UCR6qhsLpn62WVxCBK1dkLow",
+    "name": "Enna Alouette【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCR6qhsLpn62WVxCBK1dkLow",
+    "alias": ""
+  },
+  {
+    "id": "UC47rNmkDcNgbOcM-2BwzJTQ",
+    "name": "Millie Parfait【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UC47rNmkDcNgbOcM-2BwzJTQ",
+    "alias": ""
+  },
+  {
+    "id": "UCckdfYDGrjojJM28n5SHYrA",
+    "name": "Vox Akuma【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCckdfYDGrjojJM28n5SHYrA",
+    "alias": ""
+  },
+  {
+    "id": "UC7Gb7Uawe20QyFibhLl1lzA",
+    "name": "Luca Kaneshiro【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UC7Gb7Uawe20QyFibhLl1lzA",
+    "alias": ""
+  },
+  {
+    "id": "UCG0rzBZV_QMP4MtWg6IjhEA",
+    "name": "Shu Yamino【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCG0rzBZV_QMP4MtWg6IjhEA",
+    "alias": ""
+  },
+  {
+    "id": "UCQ1zGxHrfEmmW4CPpBx9-qw",
+    "name": "Alban Knox 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCQ1zGxHrfEmmW4CPpBx9-qw",
+    "alias": ""
+  },
+  {
+    "id": "UCuuAb_72QzK0M1USPMEl1yw",
+    "name": "Sonny Brisko 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCuuAb_72QzK0M1USPMEl1yw",
+    "alias": ""
+  },
+  {
+    "id": "UChJ5FTsHOu72_5OVx0rvsvQ",
+    "name": "Uki Violeta 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UChJ5FTsHOu72_5OVx0rvsvQ",
+    "alias": ""
+  },
+  {
+    "id": "UCwaS8_S7kMiKA3izlTWHbQg",
+    "name": "Maria Marionette 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCwaS8_S7kMiKA3izlTWHbQg",
+    "alias": ""
+  },
+  {
+    "id": "UCN68LoM3khS4gdBMiWJO8WA",
+    "name": "Aia Amare 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCN68LoM3khS4gdBMiWJO8WA",
+    "alias": ""
+  },
+  {
+    "id": "UCFgXWZOUZA2oYHNr6qDmsTQ",
+    "name": "Scarle Yonaguni 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCFgXWZOUZA2oYHNr6qDmsTQ",
+    "alias": ""
+  },
+  {
+    "id": "UCKu59gTZ_rdEmerdx5rV4Yg",
+    "name": "Ren Zotto 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCKu59gTZ_rdEmerdx5rV4Yg",
+    "alias": ""
+  },
+  {
+    "id": "UCy91xBlY_Brh3bnHxKtjrrg",
+    "name": "Doppio Dropscythe【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCy91xBlY_Brh3bnHxKtjrrg",
+    "alias": ""
+  },
+  {
+    "id": "UChKXd7oqD18qiIYBoRIHTlw",
+    "name": "Meloco Kyoran【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UChKXd7oqD18qiIYBoRIHTlw",
+    "alias": ""
+  },
+  {
+    "id": "UCO8WcDsF5znr-qsXlzZNpqg",
+    "name": "Ver Vermillion【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCO8WcDsF5znr-qsXlzZNpqg",
+    "alias": ""
+  },
+  {
+    "id": "UCKpKC3M5fkcEvtOr06dmYlA",
+    "name": "Yu Q. Wilson 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCKpKC3M5fkcEvtOr06dmYlA",
+    "alias": ""
+  },
+  {
+    "id": "UCpYf6C9QsP_BRf97vLuXlIA",
+    "name": "Vantacrow Bringer 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCpYf6C9QsP_BRf97vLuXlIA",
+    "alias": ""
+  },
+  {
+    "id": "UCK9l6rTwU3hiSZijIMq51Gw",
+    "name": "Vezalius Bandage 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCK9l6rTwU3hiSZijIMq51Gw",
+    "alias": ""
+  },
+  {
+    "id": "UCdh-YF2gTzqDNu0VU9lwPPw",
+    "name": "Claude Clawmark 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCdh-YF2gTzqDNu0VU9lwPPw",
+    "alias": ""
+  },
+  {
+    "id": "UCIzZDiilcPv0wim_MbuizFA",
+    "name": "Ryoma Barrenwort 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCIzZDiilcPv0wim_MbuizFA",
+    "alias": ""
+  },
+  {
+    "id": "UCQYwIUCLqFoin7lHKmePjJw",
+    "name": "Klara Charmwood 【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCQYwIUCLqFoin7lHKmePjJw",
+    "alias": ""
+  },
+  {
+    "id": "UClMYGvekJOb51eBOCK-d4Dw",
+    "name": "Zeal Ginjoka【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UClMYGvekJOb51eBOCK-d4Dw",
+    "alias": ""
+  },
+  {
+    "id": "UCr40BzcLiGruKe7M5gXR9zQ",
+    "name": "Freodore【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCr40BzcLiGruKe7M5gXR9zQ",
+    "alias": ""
+  },
+  {
+    "id": "UCCugV2RWXqJMjVVQl_Yh4TQ",
+    "name": "Seible【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCCugV2RWXqJMjVVQl_Yh4TQ",
+    "alias": ""
+  },
+  {
+    "id": "UCEFOogmvTTcCaO8Qe0I8-tg",
+    "name": "Kaelix Debonair【NIJISANJI EN】",
+    "group": "EN",
+    "channel_id": "UCEFOogmvTTcCaO8Qe0I8-tg",
+    "alias": ""
+  },
+  {
+    "id": "UCUtKkGKef8BYMs3h-3zQm9A",
+    "name": "Suha Channel 【NIJISANJI】",
+    "group": "KR",
+    "channel_id": "UCUtKkGKef8BYMs3h-3zQm9A",
+    "alias": ""
+  },
+  {
+    "id": "UCpRXCTyNNa-MnjhK6gisnRw",
+    "name": "가온 ガオン GAON 【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UCpRXCTyNNa-MnjhK6gisnRw",
+    "alias": ""
+  },
+  {
+    "id": "UC5ek2GWKvUKFgnKSHuuCFrw",
+    "name": "ナギ / Nagi 【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UC5ek2GWKvUKFgnKSHuuCFrw",
+    "alias": ""
+  },
+  {
+    "id": "UC7hffDQLKIEG-_zoAQkMIvg",
+    "name": "明楽 レイ /아키라 레이 / Ray Akira 【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UC7hffDQLKIEG-_zoAQkMIvg",
+    "alias": ""
+  },
+  {
+    "id": "UCClwIqTUn5LDpFucHyaAhHg",
+    "name": "イ・ロハ / LeeRoha【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UCClwIqTUn5LDpFucHyaAhHg",
+    "alias": ""
+  },
+  {
+    "id": "UCCHH0nWYXFZmtDS_4tvMxHQ",
+    "name": "ヤン・ナリ / Yang Nari 【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UCCHH0nWYXFZmtDS_4tvMxHQ",
+    "alias": ""
+  },
+  {
+    "id": "UClS6k3w1sPwlVFqK3-yID5A",
+    "name": "ハリ / Ryu Hari 【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UClS6k3w1sPwlVFqK3-yID5A",
+    "alias": ""
+  },
+  {
+    "id": "UCnzZmBOSrQf2wDBbnsDajVw",
+    "name": "ジユ / Jiyu 【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UCnzZmBOSrQf2wDBbnsDajVw",
+    "alias": ""
+  },
+  {
+    "id": "UCeGendL8CO5RkffB6IFwHow",
+    "name": "セフィナ / Seffyna【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UCeGendL8CO5RkffB6IFwHow",
+    "alias": ""
+  },
+  {
+    "id": "UCrhhJPNsOqzNIkUfTABoSpg",
+    "name": "ハユン / HaYun【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UCrhhJPNsOqzNIkUfTABoSpg",
+    "alias": ""
+  },
+  {
+    "id": "UCX88Pe54pxbJDSGIyGrzNdg",
+    "name": "ナ セラ / Na Sera【にじさんじ】",
+    "group": "KR",
+    "channel_id": "UCX88Pe54pxbJDSGIyGrzNdg",
+    "alias": ""
+  },
+  {
+    "id": "UCpJtk0myFr5WnyfsmnInP-w",
+    "name": "Hana Macchia Ch.【NIJISANJI・にじさんじ】",
+    "group": "ID",
+    "channel_id": "UCpJtk0myFr5WnyfsmnInP-w",
+    "alias": ""
+  },
+  {
+    "id": "UC8Snw5i4eOJXEQqURAK17hQ",
+    "name": "Rai Galilei【NIJISANJI / にじさんじ】",
+    "group": "ID",
+    "channel_id": "UC8Snw5i4eOJXEQqURAK17hQ",
+    "alias": ""
+  },
+  {
+    "id": "UCyRkQSuhJILuGOuXk10voPg",
+    "name": "Layla Alstroemeria【NIJISANJI / にじさんじ】",
+    "group": "ID",
+    "channel_id": "UCyRkQSuhJILuGOuXk10voPg",
+    "alias": ""
+  },
+  {
+    "id": "UCjFu-9GHnabzSFRAYm1B9Dw",
+    "name": "Etna Crimson【NIJISANJI / にじさんじ】",
+    "group": "ID",
+    "channel_id": "UCjFu-9GHnabzSFRAYm1B9Dw",
+    "alias": ""
+  },
+  {
+    "id": "UCijNnZ-6m8g85UGaRAWuw7g",
+    "name": "Nagisa Arcinia【NIJISANJI・にじさんじ】",
+    "group": "ID",
+    "channel_id": "UCijNnZ-6m8g85UGaRAWuw7g",
+    "alias": ""
+  },
+  {
+    "id": "UCMzVa7B8UEdrvUGsPmSgyjA",
+    "name": "デレム・カド 【にじさんじ】",
+    "group": "ID",
+    "channel_id": "UCMzVa7B8UEdrvUGsPmSgyjA",
+    "alias": ""
+  }
+]
