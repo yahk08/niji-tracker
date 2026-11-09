@@ -16,12 +16,23 @@ function latestDate(){return dates().at(-1)||''}
 function lastSlot(){const a=Object.keys(state.hourly).sort();return a.at(-1)||''}
 function getLatest(id){if(state.latest.recorded_at&&Array.isArray(state.latest.missing)&&state.latest.missing.includes(id))return null;const slot=lastSlot();const h=slot?state.hourly[slot]?.[id]:null;if(typeof h==='number')return h;const day=latestDate();const d=day?state.daily[day]?.[id]:null;return typeof d==='number'?d:null}
 function dayAdd(day,days){if(!day)return '';const d=new Date(day+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+days);return d.toISOString().slice(0,10)}
-function cmp(id,period){const now=getLatest(id);if(now==null)return {before:null,after:null,delta:null};let before=null;
+// 前日比は同じ時刻枠の実測値だけを比較する。日次データへの代替はしない。
+function cmp(id,period){
  if(period==='day'){
-   const slot=lastSlot();if(slot){const prev=dayAdd(slot.slice(0,10),-1)+slot.slice(10);const v=state.hourly[prev]?.[id];if(typeof v==='number')before=v;}
-   // 古い日次データとの比較は時刻が一致しないため利用しない
- }else{const base=latestDate();const target=dayAdd(base,period==='week'?-7:-30);const v=state.daily[target]?.[id];if(typeof v==='number')before=v}
- return {before,after:now,delta:before==null?null:now-before};}
+   const slot=state.latest.slot||lastSlot();
+   const prev=slot?dayAdd(slot.slice(0,10),-1)+slot.slice(10):'';
+   const after=slot?state.hourly[slot]?.[id]:null;
+   const before=prev?state.hourly[prev]?.[id]:null;
+   const missing=Array.isArray(state.latest.missing)&&state.latest.missing.includes(id);
+   return {before:Number.isFinite(before)?before:null,after:!missing&&Number.isFinite(after)?after:null,
+     delta:!missing&&Number.isFinite(after)&&Number.isFinite(before)?after-before:null};
+ }
+ const now=getLatest(id);
+ const target=dayAdd(latestDate(),period==='week'?-7:-30);
+ const before=state.daily[target]?.[id];
+ return {before:Number.isFinite(before)?before:null,after:now,
+   delta:Number.isFinite(now)&&Number.isFinite(before)?now-before:null};
+}
 function avatar(m){const photo=safeURL(state.latest.thumbnails?.[m.id]||m.thumbnail||'');return `<span class="avatar" aria-hidden="true" style="background:${m.type==='official'?'#237cbb':m.type==='unit'?'#408da7':'#a176b4'}">${photo?`<img loading="lazy" src="${escapeHTML(photo)}" alt="" onerror="this.remove()">`:escapeHTML([...m.name][0]||'虹')}</span>`}
 function groupLabel(m){return m.type==='official'?'公式':m.type==='unit'?'公式ユニット':(m.group==='KR'?'旧KR':m.group==='ID'?'旧ID':m.group||'JP')}
 function groupFits(m){return state.category==='all'||(state.category==='liver'?!['official','unit'].includes(m.type):['official','unit'].includes(m.type))}
@@ -32,9 +43,21 @@ function card(item,i,period){const {m}=item;const v=getLatest(m.id),ch=period===
  return `<button type="button" class="entry" data-id="${escapeHTML(m.id)}"><span class="rank">${i+1}</span>${avatar(m)}<span class="who"><strong>${escapeHTML(m.name)}</strong><small>${escapeHTML(groupLabel(m))}${rankChange>0?' · ↑'+rankChange+'位':rankChange<0?' · ↓'+Math.abs(rankChange)+'位':''}</small></span><span class="numbers"><span class="number ${ch?.delta>0?'positive':ch?.delta<0?'negative':''}">${escapeHTML(number)}</span>${before?`<small>${escapeHTML(before)}</small>`:''}</span><span class="chev">›</span></button>`}
 function renderHome(){const isChange=state.tab==='changed';$('periodControls').hidden=isChange;$('changeSummary').hidden=!isChange;$('listTitle').textContent=isChange?'変動したチャンネル':'登録者数ランキング';$('region').hidden=state.category!=='liver';$('sort').querySelector('option[value="abs"]').hidden=!isChange;
  const list=selectMembers(),period=isChange?'day':state.period,sorted=sortMembers(list,period);const visible=isChange?sorted.filter(x=>x.cmp.delta!==null&&x.cmp.delta!==0):sorted;
- $('resultCount').textContent=`${visible.length}件表示`;$('gainers').textContent=`${visible.filter(x=>x.cmp.delta>0).length}件`;$('losers').textContent=`${visible.filter(x=>x.cmp.delta<0).length}件`;
- const slot=lastSlot();$('comparisonLabel').textContent=slot?`${slot.slice(0,10)} ${slot.slice(11,16)}（JST）の前日同時刻比`:'12時間ごとの記録が2日分そろうと表示します';
- $('ranking').innerHTML=visible.length?visible.map((x,i)=>card(x,i,period)).join(''):'<div class="empty">該当するデータがありません。比較する期間の記録が不足している可能性があります。</div>';
+ const comparable=sorted.filter(x=>Number.isFinite(x.cmp.delta));
+ const unavailable=list.length-comparable.length;
+ const canCompare=comparable.length>0;
+ $('resultCount').textContent=isChange&&!canCompare&&list.length?'比較データなし':`${visible.length}件表示`;
+ $('gainers').textContent=canCompare?`${comparable.filter(x=>x.cmp.delta>0).length}件`:'—';
+ $('losers').textContent=canCompare?`${comparable.filter(x=>x.cmp.delta<0).length}件`:'—';
+ const slot=state.latest.slot||lastSlot();
+ const label=slot?`${slot.slice(0,10)} ${slot.slice(11,16)}（JST）の前日同時刻比`:'前日同時刻比';
+ $('comparisonLabel').textContent=!list.length?'条件に一致するチャンネルがありません。':!canCompare?
+   label+'：現在または前日同時刻の記録が不足しているため、まだ比較できません。':
+   label+`：比較可能 ${comparable.length}/${list.length}件`+(unavailable?`（データ不足 ${unavailable}件を除外）`:'');
+ let empty='条件に一致するチャンネルがありません。';
+ if(isChange&&list.length) empty=!canCompare?'比較に必要な記録がまだそろっていません。':
+   unavailable?'比較できたチャンネルでは変動がありません。データ不足のチャンネルは集計していません。':'前日同時刻と比べて変動したチャンネルはありません。';
+ $('ranking').innerHTML=visible.length?visible.map((x,i)=>card(x,i,period)).join(''):`<div class="empty">${escapeHTML(empty)}</div>`;
  $('ranking').querySelectorAll('[data-id]').forEach(b=>b.addEventListener('click',()=>{state.id=b.dataset.id;showDetail()}));}
 function showDetail(){const m=state.members.find(x=>x.id===state.id);if(!m)return;$('homeView').hidden=true;$('detailView').hidden=false;window.scrollTo(0,0);renderDetail()}
 function showHome(){state.id=null;$('detailView').hidden=true;$('homeView').hidden=false;renderHome();window.scrollTo(0,0)}

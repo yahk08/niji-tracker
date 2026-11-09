@@ -1,4 +1,202 @@
 [
- {"name":"にじさんじ公式サブch","type":"official"},{"name":"にじさんじ公式切り抜きチャンネル","type":"official"},{"name":"NIJISANJI ID Official","type":"official"},{"name":"NIJISANJI KR Official","type":"official"},{"name":"バーチャル・タレント・アカデミー（VTA）","type":"official"},
- {"name":"さくゆい","type":"unit"},{"name":"VΔLZ","type":"unit"},{"name":"Nornis","type":"unit"},{"name":"七次元生徒会！","type":"unit"},{"name":"3SKM","type":"unit"},{"name":"Oriens","type":"unit"},{"name":"いずれ菖蒲か杜若","type":"unit"},{"name":"Speciale","type":"unit"},{"name":"今宵、××と夢を見る。","type":"unit"},{"name":"すぷれあ","type":"unit"},{"name":"Cellmates","type":"unit"},{"name":"あるてぃめっとくりえいたーず","type":"unit"},{"name":"2時から3時のしぇあはうす","type":"unit"},{"name":"ぽっぷん・パーラー","type":"unit"},{"name":"RhyZyGy","type":"unit"},{"name":"Luxiem","type":"unit"},{"name":"BY THE BEAT","type":"unit"},{"name":"Rain Drops","type":"unit"},{"name":"JuvveL","type":"unit"},{"name":"Sepiast","type":"unit"}
+  {
+    "name": "にじさんじ公式サブch",
+    "type": "official",
+    "channel_id": "UCKtHRql9pczvUR_1kCDA6vw",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCKtHRql9pczvUR_1kCDA6vw"
+  },
+  {
+    "name": "にじさんじ公式切り抜きチャンネル",
+    "type": "official",
+    "channel_id": "UC_T8F2CvqZOwa2kme0WwRhg",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UC_T8F2CvqZOwa2kme0WwRhg"
+  },
+  {
+    "name": "NIJISANJI ID Official",
+    "type": "official",
+    "channel_id": "UCbLgcjfsUaCUgJh9SVit8kw",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCbLgcjfsUaCUgJh9SVit8kw"
+  },
+  {
+    "name": "NIJISANJI KR Official",
+    "type": "official",
+    "channel_id": "UCStzBFfjwFYb0qSYHnzFZvw",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCStzBFfjwFYb0qSYHnzFZvw"
+  },
+  {
+    "name": "バーチャル・タレント・アカデミー（VTA）",
+    "type": "official",
+    "channel_id": "UC4Jyg9gFStHO8r5n4ya7XCQ",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UC4Jyg9gFStHO8r5n4ya7XCQ"
+  },
+  {
+    "name": "さくゆい",
+    "type": "unit",
+    "channel_id": "UCGEMpMpll4otCdnnxQ9paFg",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCGEMpMpll4otCdnnxQ9paFg"
+  },
+  {
+    "name": "VΔLZ",
+    "type": "unit",
+    "channel_id": "UCh-GyPNxvjTsza0ptjnkh1w",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCh-GyPNxvjTsza0ptjnkh1w"
+  },
+  {
+    "name": "Nornis",
+    "type": "unit",
+    "channel_id": "UCxWcO9CLti4uouUIS5IIF-Q",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCxWcO9CLti4uouUIS5IIF-Q"
+  },
+  {
+    "name": "七次元生徒会！",
+    "type": "unit",
+    "channel_id": "UCHRCp0CSacVnTVS2Z4x9xYg",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCHRCp0CSacVnTVS2Z4x9xYg"
+  },
+  {
+    "name": "3SKM",
+    "type": "unit",
+    "channel_id": "UCiphSlsDcJJQ7mDqR9Q3SdA",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCiphSlsDcJJQ7mDqR9Q3SdA"
+  },
+  {
+    "name": "Oriens",
+    "type": "unit",
+    "channel_id": "UCwNNw9kUM-Bo0n2ktXOPB7Q",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCwNNw9kUM-Bo0n2ktXOPB7Q"
+  },
+  {
+    "name": "いずれ菖蒲か杜若",
+    "type": "unit",
+    "channel_id": "UCYjdP5F0ds2D6deMo5rpoyw",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCYjdP5F0ds2D6deMo5rpoyw"
+  },
+  {
+    "name": "Speciale",
+    "type": "unit",
+    "channel_id": "UCZzBZtqCowlyG4ZXr6R_pIw",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCZzBZtqCowlyG4ZXr6R_pIw"
+  },
+  {
+    "name": "今宵、××と夢を見る。",
+    "type": "unit",
+    "channel_id": "UCT5-iIJ3np5QwBkp_OiBTYQ",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCT5-iIJ3np5QwBkp_OiBTYQ"
+  },
+  {
+    "name": "すぷれあ",
+    "type": "unit",
+    "channel_id": "UC0nC50_Q8qvLbtFe6FtXpuw",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UC0nC50_Q8qvLbtFe6FtXpuw"
+  },
+  {
+    "name": "Cellmates",
+    "type": "unit",
+    "channel_id": "UC0NvtZTT8OR6F5uKYTU8zsA",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UC0NvtZTT8OR6F5uKYTU8zsA"
+  },
+  {
+    "name": "あるてぃめっとくりえいたーず",
+    "type": "unit",
+    "channel_id": "UC_ZISnImkFSj6R78G_HgUSQ",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UC_ZISnImkFSj6R78G_HgUSQ"
+  },
+  {
+    "name": "2時から3時のしぇあはうす",
+    "type": "unit",
+    "channel_id": "UCTUhaUoo6SuzlRp_EJehewQ",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCTUhaUoo6SuzlRp_EJehewQ"
+  },
+  {
+    "name": "ぽっぷん・パーラー",
+    "type": "unit",
+    "channel_id": "UCMXgokh6CT4v7LpGwfikTkw",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCMXgokh6CT4v7LpGwfikTkw"
+  },
+  {
+    "name": "RhyZyGy",
+    "type": "unit",
+    "channel_id": "UCM1pPyAoHMn56Dyk8HBhdSg",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCM1pPyAoHMn56Dyk8HBhdSg"
+  },
+  {
+    "name": "Luxiem",
+    "type": "unit",
+    "channel_id": "UCtHFXfrn52juTqGBN4WbMVw",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCtHFXfrn52juTqGBN4WbMVw"
+  },
+  {
+    "name": "BY THE BEAT",
+    "type": "unit",
+    "channel_id": "UCUEiLI0PQYewvAEtp6vEitA",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCUEiLI0PQYewvAEtp6vEitA"
+  },
+  {
+    "name": "Rain Drops",
+    "type": "unit",
+    "channel_id": "UChqQiUSyI-Q1j3k57_mAJHA",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UChqQiUSyI-Q1j3k57_mAJHA"
+  },
+  {
+    "name": "JuvveL",
+    "type": "unit",
+    "channel_id": "UC_D2DNy-KUNQJ_NGMppgmyg",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UC_D2DNy-KUNQJ_NGMppgmyg"
+  },
+  {
+    "name": "Sepiast",
+    "type": "unit",
+    "channel_id": "UCh98mDig5OrbsF-JUXbD5LA",
+    "status": "verified_added",
+    "verified_on": "2026-11-09",
+    "source": "https://www.youtube.com/channel/UCh98mDig5OrbsF-JUXbD5LA"
+  }
 ]

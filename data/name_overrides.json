@@ -1,7 +1,1212 @@
 {
- "UCD-miitqNY3nyukJ4Fnf4_A":{"name":"月ノ美兎","reading":"つきのみと"},
- "UCYKP16oMX9KKPbrNgo_Kgag":{"name":"える","reading":"える"},
- "UCsg-YqdqQ-KFF0LNk23BY4A":{"name":"樋口楓","reading":"ひぐちかえで"},
- "UCSFCh5NL4qXrAy9u-u2lX3g":{"name":"葛葉","reading":"くずは","alias":"Kuzuha"},
- "UCspv01oxUFf_MTSipURRhkA":{"name":"叶","reading":"かなえ","alias":"Kanae"}
+  "UCD-miitqNY3nyukJ4Fnf4_A": {
+    "name": "月ノ美兎",
+    "reading": "つきのみと",
+    "english": "Tsukino Mito",
+    "alias": "Tsukino Mito"
+  },
+  "UCYKP16oMX9KKPbrNgo_Kgag": {
+    "name": "える",
+    "reading": "える",
+    "english": "Elu",
+    "alias": "Elu"
+  },
+  "UCsg-YqdqQ-KFF0LNk23BY4A": {
+    "name": "樋口楓",
+    "reading": "ひぐちかえで",
+    "english": "Higuchi Kaede",
+    "alias": "Higuchi Kaede"
+  },
+  "UCSFCh5NL4qXrAy9u-u2lX3g": {
+    "name": "葛葉",
+    "reading": "くずは",
+    "alias": "Kuzuha Kuzuha",
+    "english": "Kuzuha"
+  },
+  "UCspv01oxUFf_MTSipURRhkA": {
+    "name": "叶",
+    "reading": "かなえ",
+    "alias": "Kanae Kanae",
+    "english": "Kanae"
+  },
+  "UC6oDys1BGgBsIC3WhG1BovQ": {
+    "name": "静凛",
+    "reading": "しずかりん",
+    "english": "Shizuka Rin",
+    "alias": "Shizuka Rin"
+  },
+  "UCeK9HFcRZoTrvqcUCtccMoQ": {
+    "name": "渋谷ハジメ",
+    "reading": "しぶやはじめ",
+    "english": "Shibuya Hajime",
+    "alias": "Shibuya Hajime"
+  },
+  "UCvmppcdYf4HOv-tFQhHHJMA": {
+    "name": "モイラ",
+    "reading": "もいら",
+    "english": "Moira",
+    "alias": "Moira"
+  },
+  "UCmUjjW5zF1MMOhYUwwwQv9Q": {
+    "name": "宇志海いちご",
+    "reading": "うしみいちご",
+    "english": "Ushimi Ichigo",
+    "alias": "Ushimi Ichigo"
+  },
+  "UC_GCs6GARLxEHxy1w40d6VQ": {
+    "name": "家長むぎ",
+    "reading": "いえながむぎ",
+    "english": "Ienaga Mugi",
+    "alias": "Ienaga Mugi"
+  },
+  "UC48jH1ul-6HOrcSSfoR02fQ": {
+    "name": "夕陽リリ",
+    "reading": "ゆうひりり",
+    "english": "Yuhi Riri",
+    "alias": "Yuhi Riri"
+  },
+  "UCt0clH12Xk1-Ej5PXKGfdPA": {
+    "name": "物述有栖",
+    "reading": "もののべありす",
+    "english": "Mononobe Alice",
+    "alias": "Mononobe Alice"
+  },
+  "UCBiqkFJljoxAj10SoP2w2Cg": {
+    "name": "文野環",
+    "reading": "ふみのたまき",
+    "english": "Fumino Tamaki",
+    "alias": "Fumino Tamaki"
+  },
+  "UCXU7YYxy_iQd3ulXyO-zC2w": {
+    "name": "伏見ガク",
+    "reading": "ふしみがく",
+    "english": "Fushimi Gaku",
+    "alias": "Fushimi Gaku"
+  },
+  "UCUzJ90o1EjqUbk2pBAy0_aw": {
+    "name": "ギルザレンⅢ世",
+    "reading": "ぎるざれんさんせい",
+    "english": "Gilzaren III",
+    "alias": "Gilzaren III"
+  },
+  "UCv1fFr156jc65EMiLbaLImw": {
+    "name": "剣持刀也",
+    "reading": "けんもちとうや",
+    "english": "Kenmochi Toya",
+    "alias": "Kenmochi Toya"
+  },
+  "UCtpB6Bvhs1Um93ziEDACQ8g": {
+    "name": "森中花咲",
+    "reading": "もりなかかざき",
+    "english": "Morinaka Kazaki",
+    "alias": "Morinaka Kazaki"
+  },
+  "UCBi8YaVyZpiKWN3_Z0dCTfQ": {
+    "name": "赤羽葉子",
+    "reading": "あかばねようこ",
+    "english": "Akabane Youko",
+    "alias": "Akabane Youko"
+  },
+  "UCoztvTULBYd3WmStqYeoHcA": {
+    "name": "笹木咲",
+    "reading": "ささきさく",
+    "english": "Sasaki Saku",
+    "alias": "Sasaki Saku"
+  },
+  "UC0g1AE0DOjBYnLhkgoRWN1w": {
+    "name": "本間ひまわり",
+    "reading": "ほんまひまわり",
+    "english": "Honma Himawari",
+    "alias": "Honma Himawari"
+  },
+  "UC9EjSJ8pvxtvPdxLOElv73w": {
+    "name": "魔界ノりりむ",
+    "reading": "まかいのりりむ",
+    "english": "Makaino Ririmu",
+    "alias": "Makaino Ririmu"
+  },
+  "UC_4tXjqecqox5Uc05ncxpxg": {
+    "name": "椎名唯華",
+    "reading": "しいなゆいか",
+    "english": "Shiina Yuika",
+    "alias": "Shiina Yuika"
+  },
+  "UC53UDnhAAYwvNO7j_2Ju1cQ": {
+    "name": "ドーラ",
+    "reading": "どーら",
+    "english": "Dola",
+    "alias": "Dola"
+  },
+  "UCRV9d6YCYIMUszK-83TwxVA": {
+    "name": "轟京子",
+    "reading": "とどろききょうこ",
+    "english": "Todoroki Kyoko",
+    "alias": "Todoroki Kyoko"
+  },
+  "UC1zFJrfEKvCixhsjNSb1toQ": {
+    "name": "シスター・クレア",
+    "reading": "しすたー くれあ",
+    "english": "Sister Claire",
+    "alias": "Sister Claire"
+  },
+  "UCsFn_ueskBkMCEyzCEqAOvg": {
+    "name": "花畑チャイカ",
+    "reading": "はなばたけちゃいか",
+    "english": "Hanabatake Chaika",
+    "alias": "Hanabatake Chaika"
+  },
+  "UCKMYISTJAQ8xTplUPHiABlA": {
+    "name": "社築",
+    "reading": "やしろきずく",
+    "english": "Yashiro Kizuku",
+    "alias": "Yashiro Kizuku"
+  },
+  "UCryOPk2GZ1meIDt53tL30Tw": {
+    "name": "鈴木勝",
+    "reading": "すずきまさる",
+    "english": "Suzuki Masaru",
+    "alias": "Suzuki Masaru"
+  },
+  "UCt5-0i4AVHXaWJrL8Wql3mw": {
+    "name": "緑仙",
+    "reading": "りゅーしぇん",
+    "english": "Ryushen",
+    "alias": "Ryushen"
+  },
+  "UC3lNFeJiTq6L3UWoz4g1e-A": {
+    "name": "卯月コウ",
+    "reading": "うづきこう",
+    "english": "Uzuki Kou",
+    "alias": "Uzuki Kou"
+  },
+  "UCWz0CSYCxf4MhRKPDm220AQ": {
+    "name": "神田笑一",
+    "reading": "かんだしょういち",
+    "english": "Kanda Shoichi",
+    "alias": "Kanda Shoichi"
+  },
+  "UCiSRx1a2k-0tOg-fs6gAolQ": {
+    "name": "飛鳥ひな",
+    "reading": "あすかひな",
+    "english": "Asuka Hina",
+    "alias": "Asuka Hina"
+  },
+  "UCtAvQ5U0aXyKwm2i4GqFgJg": {
+    "name": "春崎エアル",
+    "reading": "はるさきえある",
+    "english": "Harusaki Air",
+    "alias": "Harusaki Air"
+  },
+  "UCRWOdwLRsenx2jLaiCAIU4A": {
+    "name": "雨森小夜",
+    "reading": "あめもりさよ",
+    "english": "Amemori Sayo",
+    "alias": "Amemori Sayo"
+  },
+  "UCV5ZZlLjk5MKGg3L0n0vbzw": {
+    "name": "鷹宮リオン",
+    "reading": "たかみやりおん",
+    "english": "Takamiya Rion",
+    "alias": "Takamiya Rion"
+  },
+  "UCJubINhCcFXlsBwnHp0wl_g": {
+    "name": "舞元啓介",
+    "reading": "まいもとけいすけ",
+    "english": "Maimoto Keisuke",
+    "alias": "Maimoto Keisuke"
+  },
+  "UCPvGypSgfDkVe7JG2KygK7A": {
+    "name": "竜胆尊",
+    "reading": "りんどうみこと",
+    "english": "Rindou Mikoto",
+    "alias": "Rindou Mikoto"
+  },
+  "UCjlmCrq4TP1I4xguOtJ-31w": {
+    "name": "でびでび・でびる",
+    "reading": "でびでび でびる",
+    "english": "Debidebi Debiru",
+    "alias": "Debidebi Debiru"
+  },
+  "UCfQVs_KuXeNAlGa3fb8rlnQ": {
+    "name": "桜凛月",
+    "reading": "さくらりつき",
+    "english": "Sakura Ritsuki",
+    "alias": "Sakura Ritsuki"
+  },
+  "UCo7TRj3cS-f_1D9ZDmuTsjw": {
+    "name": "町田ちま",
+    "reading": "まちたちま",
+    "english": "Machita Chima",
+    "alias": "Machita Chima"
+  },
+  "UChUJbHiTVeGrSkTdBzVfNCQ": {
+    "name": "ジョー・力一",
+    "reading": "じょー りきいち",
+    "english": "Joe Rikiichi",
+    "alias": "Joe Rikiichi"
+  },
+  "UCbc8fwhdUNlqi-J99ISYu4A": {
+    "name": "ベルモンド・バンデラス",
+    "reading": "べるもんど ばんでらす",
+    "english": "Belmond Banderas",
+    "alias": "Belmond Banderas"
+  },
+  "UCvzVB-EYuHFXHZrObB8a_Og": {
+    "name": "矢車りね",
+    "reading": "やぐるまりね",
+    "english": "Yaguruma Rine",
+    "alias": "Yaguruma Rine"
+  },
+  "UCTIE7LM5X15NVugV7Krp9Hw": {
+    "name": "夢追翔",
+    "reading": "ゆめおいかける",
+    "english": "Yumeoi Kakeru",
+    "alias": "Yumeoi Kakeru"
+  },
+  "UCmeyo5pRj_6PXG-CsGUuWWg": {
+    "name": "黒井しば",
+    "reading": "くろいしば",
+    "english": "Kuroi Shiba",
+    "alias": "Kuroi Shiba"
+  },
+  "UCCVwhI5trmaSxfcze_Ovzfw": {
+    "name": "夢月ロア",
+    "reading": "ゆづきろあ",
+    "english": "Yuzuki Roa",
+    "alias": "Yuzuki Roa"
+  },
+  "UCufQu4q65z63IgE4cfKs1BQ": {
+    "name": "語部紡",
+    "reading": "かたりべつむぐ",
+    "english": "Kataribe Tsumugu",
+    "alias": "Kataribe Tsumugu"
+  },
+  "UCXRlIK3Cw_TJIQC5kSJJQMg": {
+    "name": "戌亥とこ",
+    "reading": "いぬいとこ",
+    "english": "Inui Toko",
+    "alias": "Inui Toko"
+  },
+  "UCHVXbQzkl3rDfsXWo8xi2qw": {
+    "name": "アンジュ・カトリーナ",
+    "reading": "あんじゅ かとりーな",
+    "english": "Ange Katrina",
+    "alias": "Ange Katrina"
+  },
+  "UCZ1xuCK1kNmn5RzPYIZop3w": {
+    "name": "リゼ・ヘルエスタ",
+    "reading": "りぜ へるえすた",
+    "english": "Lize Helesta",
+    "alias": "Lize Helesta"
+  },
+  "UCNW1Ex0r6HsWRD4LCtPwvoQ": {
+    "name": "三枝明那",
+    "reading": "さえぐさあきな",
+    "english": "Saegusa Akina",
+    "alias": "Saegusa Akina"
+  },
+  "UC0WwEfE-jOM2rzjpdfhTzZA": {
+    "name": "愛園愛美",
+    "reading": "あいぞのまなみ",
+    "english": "Aizono Manami",
+    "alias": "Aizono Manami"
+  },
+  "UC_a1ZYZ8ZTXpjg9xUY9sj8w": {
+    "name": "鈴原るる",
+    "reading": "すずはらるる",
+    "english": "Suzuhara Lulu",
+    "alias": "Suzuhara Lulu"
+  },
+  "UCHX7YpFG8rVwhsHCx34xt7w": {
+    "name": "雪城眞尋",
+    "reading": "ゆきしろまひろ",
+    "english": "Yukishiro Mahiro",
+    "alias": "Yukishiro Mahiro"
+  },
+  "UCIytNcoz4pWzXfLda0DoULQ": {
+    "name": "エクス・アルビオ",
+    "reading": "えくす あるびお",
+    "english": "Ex Albio",
+    "alias": "Ex Albio"
+  },
+  "UCtnO2N4kPTXmyvedjGWdx3Q": {
+    "name": "レヴィ・エリファ",
+    "reading": "れゔぃ えりふぁ",
+    "english": "Levi Elipha",
+    "alias": "Levi Elipha"
+  },
+  "UCfipDDn7wY-C-SoUChgxCQQ": {
+    "name": "葉山舞鈴",
+    "reading": "はやままりん",
+    "english": "Hayama Marin",
+    "alias": "Hayama Marin"
+  },
+  "UCUc8GZfFxtmk7ZwSO7ccQ0g": {
+    "name": "ニュイ・ソシエール",
+    "reading": "にゅい そしえーる",
+    "english": "Nui Sociere",
+    "alias": "Nui Sociere"
+  },
+  "UCGYAYLDE7TZiiC8U6teciDQ": {
+    "name": "葉加瀬冬雪",
+    "reading": "はかせふゆき",
+    "english": "Hakase Fuyuki",
+    "alias": "Hakase Fuyuki"
+  },
+  "UCmovZ2th3Sqpd00F5RdeigQ": {
+    "name": "加賀美ハヤト",
+    "reading": "かがみはやと",
+    "english": "Kagami Hayato",
+    "alias": "Kagami Hayato"
+  },
+  "UCL34fAoFim9oHLbVzMKFavQ": {
+    "name": "夜見れな",
+    "reading": "よるみれな",
+    "english": "Yorumi Rena",
+    "alias": "Yorumi Rena"
+  },
+  "UCdpUojq0KWZCN9bxXnZwz5w": {
+    "name": "アルス・アルマル",
+    "reading": "あるす あるまる",
+    "english": "Ars Almal",
+    "alias": "Ars Almal"
+  },
+  "UCkIimWZ9gBJRamKF0rmPU8w": {
+    "name": "天宮こころ",
+    "reading": "あまみやこころ",
+    "english": "Amamiya Kokoro",
+    "alias": "Amamiya Kokoro"
+  },
+  "UCpNH2Zk2gw3JBjWAKSyZcQQ": {
+    "name": "エリー・コニファー",
+    "reading": "えりー こにふぁー",
+    "english": "Eli Conifer",
+    "alias": "Eli Conifer"
+  },
+  "UCIG9rDtgR45VCZmYnd-4DUw": {
+    "name": "ラトナ・プティ",
+    "reading": "らとな ぷてぃ",
+    "english": "Ratna Petit",
+    "alias": "Ratna Petit"
+  },
+  "UC2OacIzd2UxGHRGhdHl1Rhw": {
+    "name": "早瀬走",
+    "reading": "はやせそう",
+    "english": "Hayase Sou",
+    "alias": "Hayase Sou"
+  },
+  "UC8C1LLhBhf_E2IBPLSDJXlQ": {
+    "name": "健屋花那",
+    "reading": "すこやかな",
+    "english": "Sukoya Kana",
+    "alias": "Sukoya Kana"
+  },
+  "UCHBhnG2G-qN0JrrWmMO2FTA": {
+    "name": "シェリン・バーガンディ",
+    "reading": "しぇりん ばーがんでぃ",
+    "english": "Shellin Burgundy",
+    "alias": "Shellin Burgundy"
+  },
+  "UCwrjITPwG4q71HzihV2C7Nw": {
+    "name": "フミ",
+    "reading": "ふみ",
+    "english": "Fumi",
+    "alias": "Fumi"
+  },
+  "UC9V3Y3_uzU5e-usObb6IE1w": {
+    "name": "星川サラ",
+    "reading": "ほしかわさら",
+    "english": "Hoshikawa Sara",
+    "alias": "Hoshikawa Sara"
+  },
+  "UCllKI7VjyANuS1RXatizfLQ": {
+    "name": "山神カルタ",
+    "reading": "やまがみかるた",
+    "english": "Yamagami Karuta",
+    "alias": "Yamagami Karuta"
+  },
+  "UCl1oLKcAq93p-pwKfDGhiYQ": {
+    "name": "えま★おうがすと",
+    "reading": "えま おうがすと",
+    "english": "Emma August",
+    "alias": "Emma August"
+  },
+  "UCb6ObE-XGCctO3WrjRZC-cw": {
+    "name": "ルイス・キャミー",
+    "reading": "るいす きゃみー",
+    "english": "Luis Cammy",
+    "alias": "Luis Cammy"
+  },
+  "UCerkculBD7YLc_vOGrF7tKg": {
+    "name": "魔使マオ",
+    "reading": "まつかいまお",
+    "english": "Matsukai Mao",
+    "alias": "Matsukai Mao"
+  },
+  "UC6wvdADTJ88OfIbJYIpAaDA": {
+    "name": "不破湊",
+    "reading": "ふわみなと",
+    "english": "Fuwa Minato",
+    "alias": "Fuwa Minato"
+  },
+  "UCuvk5PilcvDECU7dDZhQiEw": {
+    "name": "白雪巴",
+    "reading": "しらゆきともえ",
+    "english": "Shirayuki Tomoe",
+    "alias": "Shirayuki Tomoe"
+  },
+  "UCS-XXTgVkotkbkDnGEprXpg": {
+    "name": "ましろ爻",
+    "reading": "ましろめめ",
+    "english": "Mashiro Meme",
+    "alias": "Mashiro Meme"
+  },
+  "UCRcLAVTbmx2-iNcXSsupdNA": {
+    "name": "来栖夏芽",
+    "reading": "くるすなつめ",
+    "english": "Kurusu Natsume",
+    "alias": "Kurusu Natsume"
+  },
+  "UCuep1JCrMvSxOGgGhBfJuYw": {
+    "name": "フレン・E・ルスタリオ",
+    "reading": "ふれん いー るすたりお",
+    "english": "Furen E Lustario",
+    "alias": "Furen E Lustario"
+  },
+  "UCmZ1Rbthn-6Jm_qOGjYsh5A": {
+    "name": "イブラヒム",
+    "reading": "いぶらひむ",
+    "english": "Ibrahim",
+    "alias": "Ibrahim"
+  },
+  "UCXW4MqCQn-jCaxlX-nn-BYg": {
+    "name": "長尾景",
+    "reading": "ながおけい",
+    "english": "Nagao Kei",
+    "alias": "Nagao Kei"
+  },
+  "UCGw7lrT-rVZCWHfdG9Frcgg": {
+    "name": "弦月藤士郎",
+    "reading": "げんづきとうじろう",
+    "english": "Genzuki Tojiro",
+    "alias": "Genzuki Tojiro"
+  },
+  "UCo2N7C-Z91waaR6lF3LL_jw": {
+    "name": "甲斐田晴",
+    "reading": "かいだはる",
+    "english": "Kaida Haru",
+    "alias": "Kaida Haru"
+  },
+  "UC_82HBGtvwN1hcGeOGHzUBQ": {
+    "name": "空星きらめ",
+    "reading": "そらほしきらめ",
+    "english": "Sorahoshi Kirame",
+    "alias": "Sorahoshi Kirame"
+  },
+  "UCL_O_HXgLJx3Auteer0n0pA": {
+    "name": "周央サンゴ",
+    "reading": "すおうさんご",
+    "english": "Suo Sango",
+    "alias": "Suo Sango"
+  },
+  "UCebT4Aq-3XWb5je1S1FvR_A": {
+    "name": "東堂コハク",
+    "reading": "とうどうこはく",
+    "english": "Todo Kohaku",
+    "alias": "Todo Kohaku"
+  },
+  "UCRqBKoKuX30ruKAq05pCeRQ": {
+    "name": "北小路ヒスイ",
+    "reading": "きたこうじひすい",
+    "english": "Kitakoji Hisui",
+    "alias": "Kitakoji Hisui"
+  },
+  "UCkngxfPbmGyGl_RIq4FA3MQ": {
+    "name": "西園チグサ",
+    "reading": "にしぞのちぐさ",
+    "english": "Nishizono Chigusa",
+    "alias": "Nishizono Chigusa"
+  },
+  "UCgmFrRcyH7d1zR9sIVQhFow": {
+    "name": "ローレン・イロアス",
+    "reading": "ろーれん いろあす",
+    "english": "Lauren Iroas",
+    "alias": "Lauren Iroas"
+  },
+  "UC-6rZgmxZSIbq786j3RD5ow": {
+    "name": "レオス・ヴィンセント",
+    "reading": "れおす ゔぃんせんと",
+    "english": "Leos Vincent",
+    "alias": "Leos Vincent"
+  },
+  "UCqjTqdVlvIipZXIKeCkHKUA": {
+    "name": "オリバー・エバンス",
+    "reading": "おりばー えばんす",
+    "english": "Oliver Evans",
+    "alias": "Oliver Evans"
+  },
+  "UCRm6lqtdxs_Qo6HeL-SRQ-w": {
+    "name": "レイン・パターソン",
+    "reading": "れいん ぱたーそん",
+    "english": "Lain Paterson",
+    "alias": "Lain Paterson"
+  },
+  "UCAQDFeCTVdx90GtwohwjHzQ": {
+    "name": "天ヶ瀬むゆ",
+    "reading": "あまがせむゆ",
+    "english": "Amagase Muyu",
+    "alias": "Amagase Muyu"
+  },
+  "UCe22Bcwd_GCpTjLxn83zl7A": {
+    "name": "先斗寧",
+    "reading": "ぽんとねい",
+    "english": "Ponto Nei",
+    "alias": "Ponto Nei"
+  },
+  "UCtHY-tP0dyykhTRMmnfPs_g": {
+    "name": "海妹四葉",
+    "reading": "うみせよつは",
+    "english": "Umise Yotsuha",
+    "alias": "Umise Yotsuha"
+  },
+  "UCgIfLpQvelloDi8I0Ycbwpg": {
+    "name": "壱百満天原サロメ",
+    "reading": "ひゃくまんてんばらさろめ",
+    "english": "Hyakumantenbara Salome",
+    "alias": "Hyakumantenbara Salome"
+  },
+  "UCC7rRD6P7RQcx0hKv9RQP4w": {
+    "name": "風楽奏斗",
+    "reading": "ふうらかなと",
+    "english": "Fura Kanato",
+    "alias": "Fura Kanato"
+  },
+  "UC4l9gz3q65lTBFfFtW5LLeA": {
+    "name": "渡会雲雀",
+    "reading": "わたらいひばり",
+    "english": "Watarai Hibari",
+    "alias": "Watarai Hibari"
+  },
+  "UCcDDxnoQcezyTUzHg5uHaKg": {
+    "name": "四季凪アキラ",
+    "reading": "しきなぎあきら",
+    "english": "Shikinagi Akira",
+    "alias": "Shikinagi Akira"
+  },
+  "UC5dJFf4m-mEcoyJRfhBljoA": {
+    "name": "セラフ・ダズルガーデン",
+    "reading": "せらふ だずるがーでん",
+    "english": "Seraph Dazzlegarden",
+    "alias": "Seraph Dazzlegarden"
+  },
+  "UCUP8TmlO7NNra88AMqGU_vQ": {
+    "name": "小清水透",
+    "reading": "こしみずとおる",
+    "english": "Koshimizu Toru",
+    "alias": "Koshimizu Toru"
+  },
+  "UCWRPqA0ehhWV4Hnp27PJCkQ": {
+    "name": "獅子堂あかり",
+    "reading": "ししどうあかり",
+    "english": "Shishido Akari",
+    "alias": "Shishido Akari"
+  },
+  "UClrQ7xhRBxS_v_-WuudGKmA": {
+    "name": "鏑木ろこ",
+    "reading": "かぶらきろこ",
+    "english": "Kaburaki Roco",
+    "alias": "Kaburaki Roco"
+  },
+  "UCu-rV2gPtJ-CsGxe71z_BrQ": {
+    "name": "五十嵐梨花",
+    "reading": "いがらしりか",
+    "english": "Igarashi Rika",
+    "alias": "Igarashi Rika"
+  },
+  "UCtLfA_qUqCJtjXJM2ZR_keg": {
+    "name": "石神のぞみ",
+    "reading": "いしがみのぞみ",
+    "english": "Ishigami Nozomi",
+    "alias": "Ishigami Nozomi"
+  },
+  "UCivwPlOp0ojnMPZj5pNOPPA": {
+    "name": "ソフィア・ヴァレンタイン",
+    "reading": "そふぃあゔぁれんたいん",
+    "english": "Sophia Valentine",
+    "alias": "Sophia Valentine"
+  },
+  "UCiA-trSZfB0i92V_-dyDqBw": {
+    "name": "倉持めると",
+    "reading": "くらもちめると",
+    "english": "Kuramochi Meruto",
+    "alias": "Kuramochi Meruto"
+  },
+  "UCy8P3o5XlMpJGQY4WugzdNA": {
+    "name": "佐伯イッテツ",
+    "reading": "さいきいってつ",
+    "english": "Saiki Ittetsu",
+    "alias": "Saiki Ittetsu"
+  },
+  "UC1vawzfbCnRpHT9SJ5pHlHw": {
+    "name": "赤城ウェン",
+    "reading": "あかぎうぇん",
+    "english": "Akagi Wen",
+    "alias": "Akagi Wen"
+  },
+  "UCambvP8yxNDot4FzQc9cgiw": {
+    "name": "宇佐美リト",
+    "reading": "うさみりと",
+    "english": "Usami Rito",
+    "alias": "Usami Rito"
+  },
+  "UCqXxS-9x9Ha_UiH6hG4kh5Q": {
+    "name": "緋八マナ",
+    "reading": "ひばちまな",
+    "english": "Hibachi Mana",
+    "alias": "Hibachi Mana"
+  },
+  "UCgZ0pH7j6c9z-pkOG3PYw1Q": {
+    "name": "星導ショウ",
+    "reading": "ほしるべしょう",
+    "english": "Hoshirube Sho",
+    "alias": "Hoshirube Sho"
+  },
+  "UChdY64fJb14Nfnbs8EGdQig": {
+    "name": "叢雲カゲツ",
+    "reading": "むらくもかげつ",
+    "english": "Murakumo Kagetsu",
+    "alias": "Murakumo Kagetsu"
+  },
+  "UC6WFKwYptsxVue56Lx218vg": {
+    "name": "小柳ロウ",
+    "reading": "こやなぎろう",
+    "english": "Koyanagi Rou",
+    "alias": "Koyanagi Rou"
+  },
+  "UCz89MGFBrAqwJ5xMr5weSuA": {
+    "name": "伊波ライ",
+    "reading": "いなみらい",
+    "english": "Inami Rai",
+    "alias": "Inami Rai"
+  },
+  "UCnbJ8LTbHrsRgqkxwJXCU8w": {
+    "name": "立伝都々",
+    "reading": "たちつてとと",
+    "english": "Tachitsute Toto",
+    "alias": "Tachitsute Toto"
+  },
+  "UC7_MFM9b8hp5kuTSpa8WyOQ": {
+    "name": "栞葉るり",
+    "reading": "しおりはるり",
+    "english": "Shioriha Ruri",
+    "alias": "Shioriha Ruri"
+  },
+  "UCFtyinR2ZdvKK_Xgy07qXUg": {
+    "name": "ミラン・ケストレル",
+    "reading": "みらん けすとれる",
+    "english": "Milan Kestrel",
+    "alias": "Milan Kestrel"
+  },
+  "UCcx3crxPFi006DUhb_YU-tw": {
+    "name": "北見遊征",
+    "reading": "きたみゆうせい",
+    "english": "Kitami Yusei",
+    "alias": "Kitami Yusei"
+  },
+  "UC8SJPcLpIM3x8RdBJFfiluw": {
+    "name": "魁星",
+    "reading": "かいせい",
+    "english": "Kaisei",
+    "alias": "Kaisei"
+  },
+  "UCyXBNgCulibV9pRm3ZKpmoQ": {
+    "name": "榊ネス",
+    "reading": "さかきねす",
+    "english": "Sakaki Ness",
+    "alias": "Sakaki Ness"
+  },
+  "UCzsCWYuvPUky3-DKzphYbEw": {
+    "name": "司賀りこ",
+    "reading": "しがりこ",
+    "english": "Shiga Riko",
+    "alias": "Shiga Riko"
+  },
+  "UCkhViRjLUKgIcVpar9JiNrw": {
+    "name": "珠乃井ナナ",
+    "reading": "たまのいなな",
+    "english": "Tamanoi Nana",
+    "alias": "Tamanoi Nana"
+  },
+  "UCiJ_Um3KbfF19NzkDYLzZVQ": {
+    "name": "綺沙良",
+    "reading": "きさら",
+    "english": "Kisara",
+    "alias": "Kisara"
+  },
+  "UCyJOgJhgfoVRpFjsBCUmuvg": {
+    "name": "梢桃音",
+    "reading": "こずえもね",
+    "english": "Kozue Mone",
+    "alias": "Kozue Mone"
+  },
+  "UCzNXpqpdvlibmNc1JpM1o4g": {
+    "name": "ルンルン",
+    "reading": "るんるん",
+    "english": "Lunlun",
+    "alias": "Lunlun"
+  },
+  "UCtC3B1n4XMiJmrDtu1Ni5qw": {
+    "name": "七瀬すず菜",
+    "reading": "ななせすずな",
+    "english": "Nanase Suzuna",
+    "alias": "Nanase Suzuna"
+  },
+  "UC0xry7czPasj1wPxR8L0MZg": {
+    "name": "早乙女ベリー",
+    "reading": "さおとめべりー",
+    "english": "Saotome Berry",
+    "alias": "Saotome Berry"
+  },
+  "UCw-kTlPnZYSHhlGMFJ17Znw": {
+    "name": "雲母たまこ",
+    "reading": "きららたまこ",
+    "english": "Kirara Tamako",
+    "alias": "Kirara Tamako"
+  },
+  "UCkQ8i_cz0prqdo9jj__L93Q": {
+    "name": "酒寄颯馬",
+    "reading": "さかよりそうま",
+    "english": "Sakayori Soma",
+    "alias": "Sakayori Soma"
+  },
+  "UCpjypWF_wNRs9_TrjjWngpQ": {
+    "name": "渚トラウト",
+    "reading": "なぎさとらうと",
+    "english": "Nagisa Trout",
+    "alias": "Nagisa Trout"
+  },
+  "UCcyiT8QT7fo7LrxXe1oxOoA": {
+    "name": "一橋綾人",
+    "reading": "ひとつばしあやと",
+    "english": "Hitotsubashi Ayato",
+    "alias": "Hitotsubashi Ayato"
+  },
+  "UCiBBDZ-ndtBgE4xKbswlgXQ": {
+    "name": "五木左京",
+    "reading": "いつきさきょう",
+    "english": "Itsuki Sakyo",
+    "alias": "Itsuki Sakyo"
+  },
+  "UCrRdBPzK4sj-MMvYOhHRvHg": {
+    "name": "十河ののは",
+    "reading": "とがわののは",
+    "english": "Togawa Nonoha",
+    "alias": "Togawa Nonoha"
+  },
+  "UCBjcx01rZwPDuUPzWLTsZVA": {
+    "name": "夜牛詩乃",
+    "reading": "やぎゅうしの",
+    "english": "Yagyu Shino",
+    "alias": "Yagyu Shino"
+  },
+  "UCIq2HwA2iBOso7ar4VuU-TA": {
+    "name": "蝸堂みかる",
+    "reading": "かどうみかる",
+    "english": "Kadou Mikaru",
+    "alias": "Kadou Mikaru"
+  },
+  "UCaAu0DXNSPXCZPg6iHVwRVw": {
+    "name": "猫屋敷美紅",
+    "reading": "ねこやしきみく",
+    "english": "Nekoyashiki Miku",
+    "alias": "Nekoyashiki Miku"
+  },
+  "UCcYrL_GQe8X8K2ARhw_Syww": {
+    "name": "皇れお",
+    "reading": "すめらぎれお",
+    "english": "Sumeragi Reo",
+    "alias": "Sumeragi Reo"
+  },
+  "UCo96eJdTpPOrxHFztYajbtg": {
+    "name": "篠宮ゆの",
+    "reading": "しのみやゆの",
+    "english": "Shinomiya Yuno",
+    "alias": "Shinomiya Yuno"
+  },
+  "UCHVSA2OScyef9W7OwPGgJ9w": {
+    "name": "城瀬いすみ",
+    "reading": "しろせいすみ",
+    "english": "Shirose Isumi",
+    "alias": "Shirose Isumi"
+  },
+  "UCcswLVd6KGBf5mIdzeO83bA": {
+    "name": "花籠つばさ",
+    "reading": "はなかごつばさ",
+    "english": "Hanakago Tsubasa",
+    "alias": "Hanakago Tsubasa"
+  },
+  "UCam_xf14FPFsRshFTj4wkHw": {
+    "name": "白砂あやね",
+    "reading": "しらさあやね",
+    "english": "Shirasa Ayane",
+    "alias": "Shirasa Ayane"
+  },
+  "UCGLS7BOgNa6c03r7VYacblw": {
+    "name": "水面まどか",
+    "reading": "みなもまどか",
+    "english": "Minamo Madoka",
+    "alias": "Minamo Madoka"
+  },
+  "UCFimqykDM5g9a5KxlW_e7ZQ": {
+    "name": "男虎",
+    "reading": "おのとら",
+    "english": "Onotora",
+    "alias": "Onotora"
+  },
+  "UCzcuYIyP-1YcXC96t9J5yWQ": {
+    "name": "九里詠太",
+    "reading": "くりえいた",
+    "english": "Kuri Eita",
+    "alias": "Kuri Eita"
+  },
+  "UCGGIGlgxXoVu1ZzbQ2XBxqQ": {
+    "name": "小々波いるか",
+    "reading": "ここなみいるか",
+    "english": "Kokonami Iruka",
+    "alias": "Kokonami Iruka"
+  },
+  "UC5Qv2tPOI38OcnqOdUKkn7Q": {
+    "name": "千凛あゆむ",
+    "reading": "せんりあゆむ",
+    "english": "Senri Ayumu",
+    "alias": "Senri Ayumu"
+  },
+  "UC9HYkiQZ1_b3J_F8gc12eaA": {
+    "name": "塚原大地",
+    "reading": "つかはらだいち",
+    "english": "Tsukahara Daichi",
+    "alias": "Tsukahara Daichi"
+  },
+  "UCwjlRIySBvZ-kLV5bfjya4A": {
+    "name": "御子神琴音",
+    "reading": "みこがみことね",
+    "english": "Mikogami Kotone",
+    "alias": "Mikogami Kotone"
+  },
+  "UC_4QF0dL-9XI9VajsNkMtmQ": {
+    "name": "Rei7",
+    "reading": "れいな",
+    "english": "Reina",
+    "alias": "Reina"
+  },
+  "UCsxs_R8xnsQN4t-F_3qQ8PQ": {
+    "name": "レヨン",
+    "reading": "れよん",
+    "english": "Rayon",
+    "alias": "Rayon"
+  },
+  "UCIxiVz8JLYTMXexmLh92S6A": {
+    "name": "ぷりん・らら・もーど",
+    "reading": "ぷりん らら もーど",
+    "english": "Purin Lala Mode",
+    "alias": "Purin Lala Mode"
+  },
+  "UCa1HO5wU6csVDePt9EPYqmA": {
+    "name": "ぽめろ・ぱんち",
+    "reading": "ぽめろ ぱんち",
+    "english": "Pomelo Punch",
+    "alias": "Pomelo Punch"
+  },
+  "UCxTIuegV_Vqx11ctdeezPRQ": {
+    "name": "神永タイガ",
+    "reading": "かみながたいが",
+    "english": "Kaminaga Taiga",
+    "alias": "Kaminaga Taiga"
+  },
+  "UCzHiiP2r1zyTr8A1-6HtQtw": {
+    "name": "山田龍一郎",
+    "reading": "やまだりゅういちろう",
+    "english": "Yamada Ryuichiro",
+    "alias": "Yamada Ryuichiro"
+  },
+  "UCIeSUTOTkF9Hs7q3SGcO-Ow": {
+    "name": "エリーラ ペンドラ",
+    "reading": "えりーら ぺんどら",
+    "english": "Elira Pendora",
+    "alias": "Elira Pendora"
+  },
+  "UCu-J8uIXuLZh16gG-cT1naw": {
+    "name": "フィナーナ 竜宮",
+    "reading": "ふぃなーな りゅうぐう",
+    "english": "Finana Ryugu",
+    "alias": "Finana Ryugu"
+  },
+  "UCgA2jKRkqpY_8eysPUs8sjw": {
+    "name": "ペトラ グリン",
+    "reading": "ぺとら ぐりん",
+    "english": "Petra Gurin",
+    "alias": "Petra Gurin"
+  },
+  "UCR6qhsLpn62WVxCBK1dkLow": {
+    "name": "エナー・アールウェット",
+    "reading": "えなー あーるうぇっと",
+    "english": "Enna Alouette",
+    "alias": "Enna Alouette"
+  },
+  "UC47rNmkDcNgbOcM-2BwzJTQ": {
+    "name": "ミリー・パフェ",
+    "reading": "みりー ぱふぇ",
+    "english": "Millie Parfait",
+    "alias": "Millie Parfait"
+  },
+  "UCckdfYDGrjojJM28n5SHYrA": {
+    "name": "ヴォックス・アクマ",
+    "reading": "ゔぉっくす あくま",
+    "english": "Vox Akuma",
+    "alias": "Vox Akuma"
+  },
+  "UC7Gb7Uawe20QyFibhLl1lzA": {
+    "name": "ルカ・カネシロ",
+    "reading": "るか かねしろ",
+    "english": "Luca Kaneshiro",
+    "alias": "Luca Kaneshiro"
+  },
+  "UCG0rzBZV_QMP4MtWg6IjhEA": {
+    "name": "闇ノシュウ",
+    "reading": "やみのしゅう",
+    "english": "Shu Yamino",
+    "alias": "Shu Yamino"
+  },
+  "UCQ1zGxHrfEmmW4CPpBx9-qw": {
+    "name": "アルバーン・ノックス",
+    "reading": "あるばーん のっくす",
+    "english": "Alban Knox",
+    "alias": "Alban Knox"
+  },
+  "UCuuAb_72QzK0M1USPMEl1yw": {
+    "name": "サニー・ブリスコー",
+    "reading": "さにー ぶりすこー",
+    "english": "Sonny Brisko",
+    "alias": "Sonny Brisko"
+  },
+  "UChJ5FTsHOu72_5OVx0rvsvQ": {
+    "name": "浮奇・ヴィオレタ",
+    "reading": "うき ゔぃおれた",
+    "english": "Uki Violeta",
+    "alias": "Uki Violeta"
+  },
+  "UCwaS8_S7kMiKA3izlTWHbQg": {
+    "name": "マリア マリオネット",
+    "reading": "まりあ まりおねっと",
+    "english": "Maria Marionette",
+    "alias": "Maria Marionette"
+  },
+  "UCN68LoM3khS4gdBMiWJO8WA": {
+    "name": "アイア アマレ",
+    "reading": "あいあ あまれ",
+    "english": "Aia Amare",
+    "alias": "Aia Amare"
+  },
+  "UCFgXWZOUZA2oYHNr6qDmsTQ": {
+    "name": "スカーレ ヨナグニ",
+    "reading": "すかーれ よなぐに",
+    "english": "Scarle Yonaguni",
+    "alias": "Scarle Yonaguni"
+  },
+  "UCKu59gTZ_rdEmerdx5rV4Yg": {
+    "name": "レン ゾット",
+    "reading": "れん ぞっと",
+    "english": "Ren Zotto",
+    "alias": "Ren Zotto"
+  },
+  "UCy91xBlY_Brh3bnHxKtjrrg": {
+    "name": "ドッピオ ドロップサイト",
+    "reading": "どっぴお どろっぷさいと",
+    "english": "Doppio Dropscythe",
+    "alias": "Doppio Dropscythe"
+  },
+  "UChKXd7oqD18qiIYBoRIHTlw": {
+    "name": "狂蘭 メロコ",
+    "reading": "きょうらん めろこ",
+    "english": "Meloco Kyoran",
+    "alias": "Meloco Kyoran"
+  },
+  "UCO8WcDsF5znr-qsXlzZNpqg": {
+    "name": "ヴェール ヴァーミリオン",
+    "reading": "ゔぇーる ゔぁーみりおん",
+    "english": "Ver Vermillion",
+    "alias": "Ver Vermillion"
+  },
+  "UCKpKC3M5fkcEvtOr06dmYlA": {
+    "name": "ユウ Q ウィルソン",
+    "reading": "ゆう きゅう うぃるそん",
+    "english": "Yu Q. Wilson",
+    "alias": "Yu Q. Wilson"
+  },
+  "UCpYf6C9QsP_BRf97vLuXlIA": {
+    "name": "ベンタクロウ ブリンガー",
+    "reading": "べんたくろう ぶりんがー",
+    "english": "Vantacrow Bringer",
+    "alias": "Vantacrow Bringer"
+  },
+  "UCK9l6rTwU3hiSZijIMq51Gw": {
+    "name": "ヴェザリウス バンデージ",
+    "reading": "ゔぇざりうす ばんでーじ",
+    "english": "Vezalius Bandage",
+    "alias": "Vezalius Bandage"
+  },
+  "UCdh-YF2gTzqDNu0VU9lwPPw": {
+    "name": "クロード クローマーク",
+    "reading": "くろーど くろーまーく",
+    "english": "Claude Clawmark",
+    "alias": "Claude Clawmark"
+  },
+  "UCIzZDiilcPv0wim_MbuizFA": {
+    "name": "凉舞 バレンウォート",
+    "reading": "りょうま ばれんうぉーと",
+    "english": "Ryoma Barrenwort",
+    "alias": "Ryoma Barrenwort"
+  },
+  "UCQYwIUCLqFoin7lHKmePjJw": {
+    "name": "クララ チャームウッド",
+    "reading": "くらら ちゃーむうっど",
+    "english": "Klara Charmwood",
+    "alias": "Klara Charmwood"
+  },
+  "UClMYGvekJOb51eBOCK-d4Dw": {
+    "name": "ジール・ギンジョウカ",
+    "reading": "じーる ぎんじょうか",
+    "english": "Zeal Ginjoka",
+    "alias": "Zeal Ginjoka"
+  },
+  "UCr40BzcLiGruKe7M5gXR9zQ": {
+    "name": "フリオドール",
+    "reading": "ふりおどーる",
+    "english": "Freodore",
+    "alias": "Freodore"
+  },
+  "UCCugV2RWXqJMjVVQl_Yh4TQ": {
+    "name": "セイブル",
+    "reading": "せいぶる",
+    "english": "Seible",
+    "alias": "Seible"
+  },
+  "UCEFOogmvTTcCaO8Qe0I8-tg": {
+    "name": "ケイリクス・デボネア",
+    "reading": "けいりくす でぼねあ",
+    "english": "Kaelix Debonair",
+    "alias": "Kaelix Debonair"
+  },
+  "UCUtKkGKef8BYMs3h-3zQm9A": {
+    "name": "ミン スゥーハ",
+    "reading": "みん すぅーは",
+    "english": "Min Suha",
+    "alias": "Min Suha"
+  },
+  "UCpRXCTyNNa-MnjhK6gisnRw": {
+    "name": "ガオン",
+    "reading": "がおん",
+    "english": "Gaon",
+    "alias": "Gaon"
+  },
+  "UC5ek2GWKvUKFgnKSHuuCFrw": {
+    "name": "ソ ナギ",
+    "reading": "そ なぎ",
+    "english": "So Nagi",
+    "alias": "So Nagi"
+  },
+  "UC7hffDQLKIEG-_zoAQkMIvg": {
+    "name": "明楽レイ",
+    "reading": "あきら れい",
+    "english": "Akira Ray",
+    "alias": "Akira Ray"
+  },
+  "UCClwIqTUn5LDpFucHyaAhHg": {
+    "name": "イ ロハ",
+    "reading": "い ろは",
+    "english": "Lee Roha",
+    "alias": "Lee Roha"
+  },
+  "UCCHH0nWYXFZmtDS_4tvMxHQ": {
+    "name": "ヤン ナリ",
+    "reading": "やん なり",
+    "english": "Yang Nari",
+    "alias": "Yang Nari"
+  },
+  "UClS6k3w1sPwlVFqK3-yID5A": {
+    "name": "リュ ハリ",
+    "reading": "りゅ はり",
+    "english": "Ryu Hari",
+    "alias": "Ryu Hari"
+  },
+  "UCnzZmBOSrQf2wDBbnsDajVw": {
+    "name": "オ ジユ",
+    "reading": "お じゆ",
+    "english": "Oh Jiyu",
+    "alias": "Oh Jiyu"
+  },
+  "UCeGendL8CO5RkffB6IFwHow": {
+    "name": "セフィナ",
+    "reading": "せふぃな",
+    "english": "Seffyna",
+    "alias": "Seffyna"
+  },
+  "UCrhhJPNsOqzNIkUfTABoSpg": {
+    "name": "ハ ユン",
+    "reading": "は ゆん",
+    "english": "Ha Yun",
+    "alias": "Ha Yun"
+  },
+  "UCX88Pe54pxbJDSGIyGrzNdg": {
+    "name": "ナ セラ",
+    "reading": "な せら",
+    "english": "Na Sera",
+    "alias": "Na Sera"
+  },
+  "UCpJtk0myFr5WnyfsmnInP-w": {
+    "name": "ハナ マキア",
+    "reading": "はな まきあ",
+    "english": "Hana Macchia",
+    "alias": "Hana Macchia"
+  },
+  "UC8Snw5i4eOJXEQqURAK17hQ": {
+    "name": "ライ ガリレイ",
+    "reading": "らい がりれい",
+    "english": "Rai Galilei",
+    "alias": "Rai Galilei"
+  },
+  "UCyRkQSuhJILuGOuXk10voPg": {
+    "name": "ライラ アルストロエメリア",
+    "reading": "らいら あるすとろえめりあ",
+    "english": "Layla Alstroemeria",
+    "alias": "Layla Alstroemeria"
+  },
+  "UCjFu-9GHnabzSFRAYm1B9Dw": {
+    "name": "エトナ クリムソン",
+    "reading": "えとな くりむそん",
+    "english": "Etna Crimson",
+    "alias": "Etna Crimson"
+  },
+  "UCijNnZ-6m8g85UGaRAWuw7g": {
+    "name": "ナギサ アルシニア",
+    "reading": "なぎさ あるしにあ",
+    "english": "Nagisa Arcinia",
+    "alias": "Nagisa Arcinia"
+  },
+  "UCMzVa7B8UEdrvUGsPmSgyjA": {
+    "name": "デレム カド",
+    "reading": "でれむ かど",
+    "english": "Derem Kado",
+    "alias": "Derem Kado"
+  },
+  "UCGqO-zHwgaTiKR5tIXzZO0A": {
+    "name": "本間ひまわり切り抜きチャンネル",
+    "reading": "ほんまひまわりきりぬきちゃんねる",
+    "alias": "Honma Himawari 2nd"
+  },
+  "UCaF-mODqAziHivqg0Q61XKQ": {
+    "name": "鈴木勝の旧Channel",
+    "reading": "すずきまさるのきゅうちゃんねる",
+    "alias": "Suzuki Masaru Darkness Eater"
+  }
 }

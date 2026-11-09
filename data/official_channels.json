@@ -1,8 +1,250 @@
 [
- {"id":"UCX7YkU9nEeaoZbkVLVajcMg","channel_id":"UCX7YkU9nEeaoZbkVLVajcMg","name":"にじさんじ公式","group":"OFFICIAL","type":"official","alias":"nijisanji"},
- {"id":"UC-JSeFfovhNsEhftt1WHMvg","channel_id":"UC-JSeFfovhNsEhftt1WHMvg","name":"NIJISANJI EN公式","group":"OFFICIAL","type":"official","alias":"にじさんじEN"},
- {"id":"UCwi4P78SVunSYAGrvC9aKcw","channel_id":"UCwi4P78SVunSYAGrvC9aKcw","name":"ROF-MAO","group":"UNIT","type":"unit","alias":"ろふまお"},
- {"id":"UCz6vnIbgiqFT9xUcD6Bp65Q","channel_id":"UCz6vnIbgiqFT9xUcD6Bp65Q","name":"ChroNoiR","group":"UNIT","type":"unit","alias":"クロノワール くろのわ"},
- {"id":"UCNRh9kkByBTYLo0IJupnAug","channel_id":"UCNRh9kkByBTYLo0IJupnAug","name":"VOLTACTION","group":"UNIT","type":"unit","alias":"ヴォルタクション ぼるたくしょん"},
- {"id":"UCVj0qG8hr8On0r5uYqpGE4w","channel_id":"UCVj0qG8hr8On0r5uYqpGE4w","name":"Idios","group":"UNIT","type":"unit","alias":"いでぃおす"}
+  {
+    "id": "UCX7YkU9nEeaoZbkVLVajcMg",
+    "channel_id": "UCX7YkU9nEeaoZbkVLVajcMg",
+    "name": "にじさんじ公式",
+    "group": "OFFICIAL",
+    "type": "official",
+    "alias": "nijisanji"
+  },
+  {
+    "id": "UC-JSeFfovhNsEhftt1WHMvg",
+    "channel_id": "UC-JSeFfovhNsEhftt1WHMvg",
+    "name": "NIJISANJI EN公式",
+    "group": "OFFICIAL",
+    "type": "official",
+    "alias": "にじさんじEN"
+  },
+  {
+    "id": "UCwi4P78SVunSYAGrvC9aKcw",
+    "channel_id": "UCwi4P78SVunSYAGrvC9aKcw",
+    "name": "ROF-MAO",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "ろふまお"
+  },
+  {
+    "id": "UCz6vnIbgiqFT9xUcD6Bp65Q",
+    "channel_id": "UCz6vnIbgiqFT9xUcD6Bp65Q",
+    "name": "ChroNoiR",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "クロノワール くろのわ"
+  },
+  {
+    "id": "UCNRh9kkByBTYLo0IJupnAug",
+    "channel_id": "UCNRh9kkByBTYLo0IJupnAug",
+    "name": "VOLTACTION",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "ヴォルタクション ぼるたくしょん"
+  },
+  {
+    "id": "UCVj0qG8hr8On0r5uYqpGE4w",
+    "channel_id": "UCVj0qG8hr8On0r5uYqpGE4w",
+    "name": "Idios",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "いでぃおす"
+  },
+  {
+    "id": "UCKtHRql9pczvUR_1kCDA6vw",
+    "channel_id": "UCKtHRql9pczvUR_1kCDA6vw",
+    "name": "にじさんじ公式サブch",
+    "group": "OFFICIAL",
+    "type": "official",
+    "alias": "にじさんじ[公式サブch] ch-sx9yz"
+  },
+  {
+    "id": "UC_T8F2CvqZOwa2kme0WwRhg",
+    "channel_id": "UC_T8F2CvqZOwa2kme0WwRhg",
+    "name": "にじさんじ公式切り抜きチャンネル",
+    "group": "OFFICIAL",
+    "type": "official",
+    "alias": "にじさんじ公式切り抜きチャンネル【NIJISANJI Official Best Moments】 nijisanji_kirinuki"
+  },
+  {
+    "id": "UCbLgcjfsUaCUgJh9SVit8kw",
+    "channel_id": "UCbLgcjfsUaCUgJh9SVit8kw",
+    "name": "NIJISANJI ID Official",
+    "group": "OFFICIAL",
+    "type": "official",
+    "alias": "NIJISANJI ID Official NIJISANJIIDOfficial"
+  },
+  {
+    "id": "UCStzBFfjwFYb0qSYHnzFZvw",
+    "channel_id": "UCStzBFfjwFYb0qSYHnzFZvw",
+    "name": "NIJISANJI KR Official",
+    "group": "OFFICIAL",
+    "type": "official",
+    "alias": "니지산지 / NIJISANJI KR Official NIJISANJIKROfficial"
+  },
+  {
+    "id": "UC4Jyg9gFStHO8r5n4ya7XCQ",
+    "channel_id": "UC4Jyg9gFStHO8r5n4ya7XCQ",
+    "name": "バーチャル・タレント・アカデミー（VTA）",
+    "group": "OFFICIAL",
+    "type": "official",
+    "alias": "VTA公式【にじさんじ】 VTA"
+  },
+  {
+    "id": "UCGEMpMpll4otCdnnxQ9paFg",
+    "channel_id": "UCGEMpMpll4otCdnnxQ9paFg",
+    "name": "さくゆい",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "sakuyui ch / さくゆいちゃんねる sakuyui"
+  },
+  {
+    "id": "UCh-GyPNxvjTsza0ptjnkh1w",
+    "channel_id": "UCh-GyPNxvjTsza0ptjnkh1w",
+    "name": "VΔLZ",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "VΔLZ VALZ_ch"
+  },
+  {
+    "id": "UCxWcO9CLti4uouUIS5IIF-Q",
+    "channel_id": "UCxWcO9CLti4uouUIS5IIF-Q",
+    "name": "Nornis",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "Nornis Nornis"
+  },
+  {
+    "id": "UCHRCp0CSacVnTVS2Z4x9xYg",
+    "channel_id": "UCHRCp0CSacVnTVS2Z4x9xYg",
+    "name": "七次元生徒会！",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "七次元生徒会 seitokai_07"
+  },
+  {
+    "id": "UCiphSlsDcJJQ7mDqR9Q3SdA",
+    "channel_id": "UCiphSlsDcJJQ7mDqR9Q3SdA",
+    "name": "3SKM",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "3SKM 3SKM_nijisanji"
+  },
+  {
+    "id": "UCwNNw9kUM-Bo0n2ktXOPB7Q",
+    "channel_id": "UCwNNw9kUM-Bo0n2ktXOPB7Q",
+    "name": "Oriens",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "Oriensオリエンス【にじさんじ】 Oriens_HERO"
+  },
+  {
+    "id": "UCYjdP5F0ds2D6deMo5rpoyw",
+    "channel_id": "UCYjdP5F0ds2D6deMo5rpoyw",
+    "name": "いずれ菖蒲か杜若",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "いずれ菖蒲か杜若 AYAKAKI"
+  },
+  {
+    "id": "UCZzBZtqCowlyG4ZXr6R_pIw",
+    "channel_id": "UCZzBZtqCowlyG4ZXr6R_pIw",
+    "name": "Speciale",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "Speciale【にじさんじ】 Speciale_nijisanji"
+  },
+  {
+    "id": "UCT5-iIJ3np5QwBkp_OiBTYQ",
+    "channel_id": "UCT5-iIJ3np5QwBkp_OiBTYQ",
+    "name": "今宵、××と夢を見る。",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "今宵、××と夢を見る。 yoiyume_nijisanji"
+  },
+  {
+    "id": "UC0nC50_Q8qvLbtFe6FtXpuw",
+    "channel_id": "UC0nC50_Q8qvLbtFe6FtXpuw",
+    "name": "すぷれあ",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "すぷれあ splare_nijisanji"
+  },
+  {
+    "id": "UC0NvtZTT8OR6F5uKYTU8zsA",
+    "channel_id": "UC0NvtZTT8OR6F5uKYTU8zsA",
+    "name": "Cellmates",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "Cellmates ll_cellmates_ll"
+  },
+  {
+    "id": "UC_ZISnImkFSj6R78G_HgUSQ",
+    "channel_id": "UC_ZISnImkFSj6R78G_HgUSQ",
+    "name": "あるてぃめっとくりえいたーず",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "あるてぃめっとくりえいたーず Ultimate_Creators"
+  },
+  {
+    "id": "UCTUhaUoo6SuzlRp_EJehewQ",
+    "channel_id": "UCTUhaUoo6SuzlRp_EJehewQ",
+    "name": "2時から3時のしぇあはうす",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "2時から3時のしぇあはうす 2ji3ji_sharehouse"
+  },
+  {
+    "id": "UCMXgokh6CT4v7LpGwfikTkw",
+    "channel_id": "UCMXgokh6CT4v7LpGwfikTkw",
+    "name": "ぽっぷん・パーラー",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "ぽっぷん・パーラー PoppunParlor"
+  },
+  {
+    "id": "UCM1pPyAoHMn56Dyk8HBhdSg",
+    "channel_id": "UCM1pPyAoHMn56Dyk8HBhdSg",
+    "name": "RhyZyGy",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "RhyZyGy RhyZyGy"
+  },
+  {
+    "id": "UCtHFXfrn52juTqGBN4WbMVw",
+    "channel_id": "UCtHFXfrn52juTqGBN4WbMVw",
+    "name": "Luxiem",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "Luxiem Channel【NIJISANJI EN】 Luxiem"
+  },
+  {
+    "id": "UCUEiLI0PQYewvAEtp6vEitA",
+    "channel_id": "UCUEiLI0PQYewvAEtp6vEitA",
+    "name": "BY THE BEAT",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "BY THE BEAT by_the_beat"
+  },
+  {
+    "id": "UChqQiUSyI-Q1j3k57_mAJHA",
+    "channel_id": "UChqQiUSyI-Q1j3k57_mAJHA",
+    "name": "Rain Drops",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "Rain Drops raindrops200123"
+  },
+  {
+    "id": "UC_D2DNy-KUNQJ_NGMppgmyg",
+    "channel_id": "UC_D2DNy-KUNQJ_NGMppgmyg",
+    "name": "JuvveL",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "JuvveL juvvel4420"
+  },
+  {
+    "id": "UCh98mDig5OrbsF-JUXbD5LA",
+    "channel_id": "UCh98mDig5OrbsF-JUXbD5LA",
+    "name": "Sepiast",
+    "group": "UNIT",
+    "type": "unit",
+    "alias": "Sepiast-セピアスト- Sepiast"
+  }
 ]
